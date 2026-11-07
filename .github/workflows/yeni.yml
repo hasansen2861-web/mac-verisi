@@ -1,0 +1,77 @@
+name: Yeni ligler
+
+on:
+  schedule:
+    - cron: '47 */4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  indir:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Yeni ligleri indir ve donustur
+        run: |
+          mkdir -p ham data
+          for L in AUT CHN JPN SWZ DNK POL BRA ARG USA MEX NOR SWE; do
+            curl -fsSL -A "Mozilla/5.0" "https://www.football-data.co.uk/new/$L.csv" -o "ham/$L.csv" || echo "yok: $L"
+          done
+          curl -fsSL -A "Mozilla/5.0" "https://www.football-data.co.uk/new_league_fixtures.csv" -o ham/fixtures_new.csv || echo "yeni fikstur yok"
+          ls -la ham
+          python3 - <<'PY'
+          import csv, os, glob
+          Y = 2000 + int(os.popen("date -u +%y").read())
+          M = int(os.popen("date -u +%m").read())
+          B = Y if M >= 7 else Y - 1
+          S = "%02d%02d" % (B % 100, (B + 1) % 100)
+          P = "%02d%02d" % ((B - 1) % 100, B % 100)
+          ulke = {"Austria":"AUT","China":"CHN","Japan":"JPN","Switzerland":"SWZ","Denmark":"DNK","Poland":"POL",
+                  "Brazil":"BRA","Argentina":"ARG","USA":"USA","Mexico":"MEX","Norway":"NOR","Sweden":"SWE"}
+          bas = ["Div","Date","Time","HomeTeam","AwayTeam","FTHG","FTAG","AvgH","AvgD","AvgA"]
+          def satir(r, kod):
+              g = lambda *k: next((r[x] for x in k if x in r and r[x] != ""), "")
+              return [kod, g("Date"), g("Time"), g("Home","HomeTeam"), g("Away","AwayTeam"),
+                      g("HG","FTHG"), g("AG","FTAG"), g("AvgCH","AvgH","B365CH"), g("AvgCD","AvgD","B365CD"), g("AvgCA","AvgA","B365CA")]
+          for f in glob.glob("ham/*.csv"):
+              kod = os.path.basename(f)[:-4]
+              if kod == "fixtures_new": continue
+              rows = list(csv.DictReader(open(f, encoding="utf-8-sig", errors="replace")))
+              rows = [{k.strip(): (v or "").strip() for k, v in r.items() if k} for r in rows]
+              sezonlar = []
+              for r in rows:
+                  s = r.get("Season", "")
+                  if s and s not in sezonlar: sezonlar.append(s)
+              if not sezonlar: continue
+              son, once = sezonlar[-1], (sezonlar[-2] if len(sezonlar) > 1 else None)
+              for sz, ad in ((son, S), (once, P)):
+                  if sz is None: continue
+                  with open(f"data/{ad}_{kod}.csv", "w", newline="") as o:
+                      w = csv.writer(o); w.writerow(bas)
+                      for r in rows:
+                          if r.get("Season") == sz: w.writerow(satir(r, kod))
+              print(kod, "sezonlar:", son, once)
+          f = "ham/fixtures_new.csv"
+          if os.path.exists(f):
+              rows = list(csv.DictReader(open(f, encoding="utf-8-sig", errors="replace")))
+              with open("data/fixtures_new.csv", "w", newline="") as o:
+                  w = csv.writer(o); w.writerow(bas); n = 0
+                  for r in rows:
+                      r = {k.strip(): (v or "").strip() for k, v in r.items() if k}
+                      kod = r.get("Div") or ulke.get(r.get("Country", ""), "")
+                      if kod: w.writerow(satir(r, kod)); n += 1
+                  print("yeni fikstur:", n)
+          PY
+          ls -la data | head -80
+
+      - name: Kaydet
+        run: |
+          git config user.name "veri-bot"
+          git config user.email "veri-bot@users.noreply.github.com"
+          git add data
+          git commit -m "Yeni ligler guncellendi $(date -u +%F_%H:%M)" || exit 0
+          git pull --rebase
+          git push
