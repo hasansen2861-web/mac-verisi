@@ -1,0 +1,193 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,AvgH,AvgD,AvgA
+DNK,18/07/2025,18:00,Viborg,FC Copenhagen,2,3,5.65,4.11,1.52
+DNK,20/07/2025,13:00,Fredericia,Nordsjaelland,2,3,3.51,3.56,1.93
+DNK,20/07/2025,13:00,Vejle,Randers FC,1,1,3.13,3.45,2.12
+DNK,20/07/2025,15:00,Sonderjyske,Aarhus,1,1,3.8,3.3,1.94
+DNK,20/07/2025,17:00,Midtjylland,Odense,3,3,1.44,4.56,5.92
+DNK,20/07/2025,19:00,Brondby,Silkeborg,3,0,1.63,4,4.61
+DNK,25/07/2025,18:00,Aarhus,Randers FC,1,2,1.87,3.54,3.79
+DNK,26/07/2025,17:00,FC Copenhagen,Vejle,2,0,1.25,5.67,9.81
+DNK,27/07/2025,13:00,Odense,Viborg,3,1,2.16,3.59,2.95
+DNK,27/07/2025,15:00,Silkeborg,Fredericia,0,2,1.73,3.73,4.29
+DNK,27/07/2025,17:00,Nordsjaelland,Brondby,0,1,3.08,3.7,2.06
+DNK,28/07/2025,18:00,Midtjylland,Sonderjyske,6,2,1.5,4.54,5.22
+DNK,01/08/2025,17:00,Fredericia,FC Copenhagen,0,2,6.38,4.6,1.42
+DNK,01/08/2025,19:00,Vejle,Odense,4,0,2.57,3.47,2.48
+DNK,03/08/2025,13:00,Randers FC,Silkeborg,1,0,1.88,3.66,3.64
+DNK,03/08/2025,13:00,Sonderjyske,Nordsjaelland,3,2,2.91,3.61,2.17
+DNK,03/08/2025,15:00,Aarhus,Midtjylland,0,0,2.37,3.55,2.67
+DNK,03/08/2025,17:00,Brondby,Viborg,0,2,1.69,3.91,4.27
+DNK,08/08/2025,17:00,FC Copenhagen,Aarhus,2,3,1.79,3.55,4.11
+DNK,08/08/2025,19:00,Viborg,Sonderjyske,1,0,1.85,3.63,3.78
+DNK,10/08/2025,13:00,Midtjylland,Fredericia,3,3,1.35,5.2,6.69
+DNK,10/08/2025,15:00,Silkeborg,Nordsjaelland,4,2,2.53,3.54,2.46
+DNK,10/08/2025,17:00,Brondby,Vejle,2,1,1.58,4.13,4.8
+DNK,11/08/2025,18:00,Odense,Randers FC,3,2,2.46,3.42,2.6
+DNK,15/08/2025,17:00,Nordsjaelland,FC Copenhagen,1,3,3.94,3.77,1.77
+DNK,15/08/2025,19:00,Fredericia,Sonderjyske,3,2,2.45,3.45,2.59
+DNK,17/08/2025,13:00,Vejle,Midtjylland,0,2,3.42,3.8,1.89
+DNK,17/08/2025,15:00,Viborg,Silkeborg,2,3,2.24,3.48,2.86
+DNK,17/08/2025,17:00,Randers FC,Brondby,0,2,2.76,3.37,2.37
+DNK,18/08/2025,18:00,Odense,Aarhus,1,5,3.16,3.5,2.09
+DNK,23/08/2025,17:00,FC Copenhagen,Odense,1,1,1.36,4.88,7.08
+DNK,24/08/2025,13:00,Fredericia,Randers FC,1,0,3.01,3.69,2.08
+DNK,24/08/2025,13:00,Midtjylland,Silkeborg,4,2,1.61,4.25,4.36
+DNK,24/08/2025,15:00,Sonderjyske,Brondby,2,0,3.63,3.64,1.88
+DNK,24/08/2025,17:00,Aarhus,Vejle,1,0,1.56,4.01,5.25
+DNK,25/08/2025,18:00,Nordsjaelland,Viborg,1,0,1.85,3.82,3.57
+DNK,29/08/2025,18:00,Vejle,Viborg,1,2,2.54,3.3,2.57
+DNK,31/08/2025,13:00,Aarhus,Fredericia,4,1,1.41,4.64,6.45
+DNK,31/08/2025,13:00,Silkeborg,Sonderjyske,0,2,2.02,3.68,3.16
+DNK,31/08/2025,15:00,Odense,Nordsjaelland,1,2,2.68,3.52,2.35
+DNK,31/08/2025,17:00,Randers FC,FC Copenhagen,1,5,4.31,3.77,1.71
+DNK,31/08/2025,19:00,Brondby,Midtjylland,1,3,2.43,3.5,2.59
+DNK,12/09/2025,18:00,Sonderjyske,Randers FC,0,1,2.29,3.48,2.71
+DNK,13/09/2025,14:00,Brondby,FC Copenhagen,2,1,3.74,3.4,1.9
+DNK,14/09/2025,13:00,Viborg,Aarhus,1,2,2.86,3.36,2.27
+DNK,14/09/2025,15:00,Nordsjaelland,Midtjylland,1,0,2.85,3.66,2.16
+DNK,14/09/2025,17:00,Silkeborg,Odense,2,1,2.29,3.55,2.69
+DNK,15/09/2025,18:00,Fredericia,Vejle,1,1,2.65,3.43,2.39
+DNK,19/09/2025,18:00,Odense,Fredericia,3,2,1.58,4.08,4.73
+DNK,20/09/2025,17:00,Midtjylland,Viborg,2,0,1.7,4.02,3.99
+DNK,21/09/2025,13:00,Vejle,Sonderjyske,2,2,2.2,3.46,2.91
+DNK,21/09/2025,15:00,FC Copenhagen,Silkeborg,3,3,1.31,5.03,7.84
+DNK,21/09/2025,17:00,Aarhus,Brondby,1,0,2.1,3.42,3.13
+DNK,22/09/2025,18:00,Randers FC,Nordsjaelland,3,0,2.56,3.45,2.44
+DNK,27/09/2025,17:00,Sonderjyske,FC Copenhagen,1,2,6.05,4.19,1.46
+DNK,28/09/2025,13:00,Viborg,Fredericia,2,1,1.62,4.09,4.47
+DNK,28/09/2025,15:00,Silkeborg,Vejle,1,1,2.06,3.48,3.15
+DNK,28/09/2025,17:00,Nordsjaelland,Aarhus,1,2,2.54,3.46,2.46
+DNK,28/09/2025,19:00,Brondby,Odense,5,1,1.66,3.92,4.3
+DNK,29/09/2025,18:00,Midtjylland,Randers FC,2,1,1.66,3.9,4.32
+DNK,03/10/2025,18:00,Odense,Sonderjyske,1,1,2.17,3.47,2.94
+DNK,05/10/2025,13:00,Randers FC,Viborg,2,1,2.23,3.38,2.91
+DNK,05/10/2025,13:00,Vejle,Nordsjaelland,0,3,3.07,3.48,2.11
+DNK,05/10/2025,15:00,Aarhus,Silkeborg,3,1,1.56,4.1,4.95
+DNK,05/10/2025,17:00,FC Copenhagen,Midtjylland,1,1,1.89,3.48,3.71
+DNK,05/10/2025,19:00,Fredericia,Brondby,0,2,5.57,4.52,1.46
+DNK,17/10/2025,18:00,Silkeborg,FC Copenhagen,3,1,4.86,3.77,1.63
+DNK,19/10/2025,13:00,Nordsjaelland,Randers FC,1,0,1.82,3.71,3.74
+DNK,19/10/2025,13:00,Viborg,Odense,1,2,2,3.49,3.35
+DNK,19/10/2025,15:00,Brondby,Aarhus,3,3,2.26,3.34,2.9
+DNK,19/10/2025,17:00,Midtjylland,Vejle,5,1,1.24,5.79,9.41
+DNK,20/10/2025,18:00,Sonderjyske,Fredericia,3,0,1.73,3.88,3.95
+DNK,24/10/2025,18:00,Aarhus,Nordsjaelland,1,0,1.75,3.8,3.99
+DNK,26/10/2025,13:00,Fredericia,Midtjylland,0,4,7.64,5.44,1.29
+DNK,26/10/2025,13:00,Vejle,Silkeborg,1,2,2.72,3.45,2.32
+DNK,26/10/2025,15:00,Randers FC,Sonderjyske,0,0,1.91,3.66,3.44
+DNK,26/10/2025,17:00,FC Copenhagen,Viborg,0,0,1.42,4.4,6.34
+DNK,27/10/2025,18:00,Odense,Brondby,1,4,3.52,3.56,1.91
+DNK,01/11/2025,17:00,FC Copenhagen,Fredericia,3,2,1.22,6.17,9.7
+DNK,02/11/2025,13:00,Viborg,Randers FC,3,2,2.29,3.42,2.77
+DNK,02/11/2025,15:00,Sonderjyske,Vejle,2,1,1.93,3.52,3.5
+DNK,02/11/2025,17:00,Nordsjaelland,Odense,2,4,1.71,3.98,4
+DNK,02/11/2025,19:00,Silkeborg,Brondby,0,2,2.95,3.6,2.13
+DNK,03/11/2025,18:00,Midtjylland,Aarhus,1,1,1.76,4.01,3.73
+DNK,07/11/2025,18:00,Odense,Silkeborg,1,1,1.94,3.67,3.36
+DNK,09/11/2025,13:00,Fredericia,Viborg,0,3,3.13,3.67,2.02
+DNK,09/11/2025,13:00,Vejle,FC Copenhagen,2,0,5.19,4.04,1.55
+DNK,09/11/2025,15:00,Randers FC,Midtjylland,0,2,4.57,3.98,1.62
+DNK,09/11/2025,17:00,Aarhus,Sonderjyske,2,3,1.51,4.22,5.34
+DNK,09/11/2025,19:00,Brondby,Nordsjaelland,2,0,2.03,3.53,3.21
+DNK,21/11/2025,18:00,Silkeborg,Aarhus,0,2,3.56,3.72,1.85
+DNK,23/11/2025,11:00,FC Copenhagen,Brondby,1,0,1.83,3.53,3.88
+DNK,23/11/2025,13:00,Viborg,Vejle,5,2,1.72,3.73,4.25
+DNK,23/11/2025,15:00,Nordsjaelland,Fredericia,5,0,1.33,5.08,7.05
+DNK,23/11/2025,17:00,Sonderjyske,Midtjylland,2,1,4.69,4.11,1.58
+DNK,24/11/2025,18:00,Randers FC,Odense,0,0,2.17,3.4,3.03
+DNK,28/11/2025,18:00,Sonderjyske,Viborg,2,2,2.25,3.4,2.86
+DNK,30/11/2025,13:00,Aarhus,FC Copenhagen,2,0,2.39,3.45,2.62
+DNK,30/11/2025,13:00,Silkeborg,Randers FC,0,0,2.55,3.48,2.46
+DNK,30/11/2025,15:00,Midtjylland,Nordsjaelland,6,0,1.75,3.98,3.85
+DNK,30/11/2025,17:00,Odense,Vejle,3,0,1.78,3.72,3.93
+DNK,01/12/2025,18:00,Brondby,Fredericia,1,3,1.24,5.91,9.11
+DNK,05/12/2025,18:00,Fredericia,Odense,1,3,3.97,3.97,1.72
+DNK,07/12/2025,13:00,Nordsjaelland,Silkeborg,5,0,1.62,4.28,4.31
+DNK,07/12/2025,13:00,Viborg,Midtjylland,3,3,4.77,4.05,1.59
+DNK,07/12/2025,15:00,Randers FC,Aarhus,1,2,3.39,3.49,1.98
+DNK,07/12/2025,17:00,FC Copenhagen,Sonderjyske,0,2,1.55,4.1,5.12
+DNK,08/12/2025,18:00,Vejle,Brondby,2,1,4.04,3.67,1.77
+DNK,08/02/2026,13:00,Nordsjaelland,Sonderjyske,2,1,1.78,3.78,3.92
+DNK,08/02/2026,13:00,Silkeborg,Viborg,0,1,3.01,3.55,2.12
+DNK,08/02/2026,15:00,Midtjylland,FC Copenhagen,2,1,2.17,3.44,2.99
+DNK,08/02/2026,17:00,Brondby,Randers FC,0,0,2.12,3.35,3.2
+DNK,09/02/2026,18:00,Vejle,Fredericia,2,3,1.96,3.49,3.46
+DNK,09/02/2026,20:00,Aarhus,Odense,2,1,1.64,3.88,4.59
+DNK,13/02/2026,18:00,Randers FC,Vejle,2,0,1.84,3.37,4.11
+DNK,14/02/2026,16:00,FC Copenhagen,Nordsjaelland,1,2,1.78,3.83,3.85
+DNK,15/02/2026,13:00,Fredericia,Aarhus,1,1,6.01,4.58,1.43
+DNK,15/02/2026,15:00,Odense,Midtjylland,1,4,4.13,3.88,1.7
+DNK,15/02/2026,17:00,Viborg,Brondby,1,0,2.41,3.45,2.63
+DNK,16/02/2026,18:00,Sonderjyske,Silkeborg,2,1,1.85,3.78,3.55
+DNK,20/02/2026,18:00,Nordsjaelland,Vejle,3,3,1.34,4.96,7.26
+DNK,21/02/2026,13:00,Odense,FC Copenhagen,2,2,3.65,3.71,1.83
+DNK,22/02/2026,13:00,Randers FC,Fredericia,1,2,1.62,3.87,4.73
+DNK,22/02/2026,15:00,Silkeborg,Midtjylland,0,4,5.42,4.53,1.46
+DNK,22/02/2026,17:00,Aarhus,Viborg,5,2,1.68,3.79,4.32
+DNK,23/02/2026,18:00,Brondby,Sonderjyske,0,0,1.83,3.49,3.97
+DNK,01/03/2026,16:00,FC Copenhagen,Randers FC,1,2,1.51,4.1,5.48
+DNK,01/03/2026,16:00,Fredericia,Silkeborg,2,1,2.29,3.54,2.67
+DNK,01/03/2026,16:00,Midtjylland,Brondby,0,0,1.47,4.29,5.59
+DNK,01/03/2026,16:00,Sonderjyske,Odense,1,0,2.2,3.48,2.84
+DNK,01/03/2026,16:00,Vejle,Aarhus,1,2,5.44,4.15,1.5
+DNK,01/03/2026,16:00,Viborg,Nordsjaelland,2,1,2.08,3.61,2.99
+DNK,13/03/2026,18:00,Fredericia,Randers FC,0,3,3.15,3.64,2.01
+DNK,15/03/2026,13:00,Midtjylland,Nordsjaelland,0,1,1.38,4.86,6.13
+DNK,15/03/2026,13:00,Odense,FC Copenhagen,2,1,2.83,3.57,2.19
+DNK,15/03/2026,15:00,Sonderjyske,Aarhus,1,1,3.52,3.53,1.91
+DNK,15/03/2026,17:00,Brondby,Viborg,0,1,2.11,3.39,3.13
+DNK,16/03/2026,18:00,Silkeborg,Vejle,1,1,2.28,3.45,2.77
+DNK,20/03/2026,18:00,Vejle,Odense,1,1,3.1,3.41,2.12
+DNK,22/03/2026,13:00,Nordsjaelland,Sonderjyske,2,0,2.03,3.65,3.08
+DNK,22/03/2026,13:00,Randers FC,Silkeborg,0,3,1.76,3.68,4.04
+DNK,22/03/2026,15:00,FC Copenhagen,Fredericia,1,2,1.31,5.25,7.33
+DNK,22/03/2026,17:00,Aarhus,Brondby,0,0,1.68,3.72,4.46
+DNK,22/03/2026,19:00,Viborg,Midtjylland,1,1,3.08,3.61,2.05
+DNK,04/04/2026,17:00,Midtjylland,Sonderjyske,2,2,1.43,4.52,6.06
+DNK,05/04/2026,17:00,FC Copenhagen,Silkeborg,7,0,1.33,5.14,7.01
+DNK,06/04/2026,13:00,Vejle,Randers FC,1,1,2.84,3.23,2.34
+DNK,06/04/2026,15:00,Odense,Fredericia,1,0,1.55,4.27,4.68
+DNK,06/04/2026,17:00,Viborg,Aarhus,1,2,2.88,3.32,2.27
+DNK,07/04/2026,18:00,Nordsjaelland,Brondby,2,1,2.11,3.51,3
+DNK,10/04/2026,18:00,Aarhus,Nordsjaelland,1,1,1.78,3.81,3.82
+DNK,12/04/2026,13:00,Silkeborg,Odense,3,1,3.17,3.69,1.99
+DNK,12/04/2026,13:00,Sonderjyske,Viborg,0,2,2.8,3.52,2.24
+DNK,12/04/2026,15:00,Brondby,Midtjylland,1,2,3.22,3.49,2.04
+DNK,12/04/2026,17:00,Randers FC,FC Copenhagen,1,2,4.33,3.75,1.7
+DNK,13/04/2026,18:00,Fredericia,Vejle,2,2,2.32,3.49,2.72
+DNK,17/04/2026,18:00,Brondby,Sonderjyske,6,0,1.81,3.69,3.76
+DNK,19/04/2026,13:00,Odense,Randers FC,3,1,2.17,3.37,2.97
+DNK,19/04/2026,13:00,Silkeborg,Fredericia,2,2,2,3.71,3.1
+DNK,19/04/2026,15:00,Nordsjaelland,Viborg,2,1,2.15,3.61,2.86
+DNK,19/04/2026,17:00,Vejle,FC Copenhagen,1,4,4.87,3.97,1.58
+DNK,20/04/2026,18:00,Midtjylland,Aarhus,2,1,1.97,3.47,3.38
+DNK,22/04/2026,17:00,FC Copenhagen,Odense,2,1,1.56,4.12,4.89
+DNK,22/04/2026,17:00,Vejle,Silkeborg,1,2,2.2,3.54,2.85
+DNK,22/04/2026,19:00,Viborg,Brondby,0,1,2.19,3.51,2.89
+DNK,23/04/2026,17:00,Nordsjaelland,Aarhus,1,1,2.8,3.64,2.18
+DNK,23/04/2026,17:00,Randers FC,Fredericia,2,2,1.82,3.64,3.78
+DNK,23/04/2026,19:00,Sonderjyske,Midtjylland,1,2,5.38,4.42,1.47
+DNK,26/04/2026,13:00,Fredericia,Odense,0,2,2.89,3.68,2.1
+DNK,26/04/2026,13:00,Silkeborg,Randers FC,2,0,3.02,3.37,2.16
+DNK,26/04/2026,15:00,Sonderjyske,Brondby,3,0,3.44,3.71,1.87
+DNK,26/04/2026,17:00,Viborg,Nordsjaelland,1,0,2.19,3.72,2.71
+DNK,26/04/2026,19:00,Aarhus,Midtjylland,0,0,2.54,3.25,2.54
+DNK,27/04/2026,18:00,FC Copenhagen,Vejle,3,0,1.21,5.99,9.89
+DNK,01/05/2026,18:00,Brondby,Nordsjaelland,1,1,2.15,3.71,2.75
+DNK,03/05/2026,13:00,Odense,Silkeborg,2,3,1.52,4.37,4.8
+DNK,03/05/2026,13:00,Randers FC,Vejle,1,0,1.5,4.11,5.47
+DNK,03/05/2026,15:00,Fredericia,FC Copenhagen,3,3,5.11,4.52,1.48
+DNK,03/05/2026,17:00,Aarhus,Sonderjyske,2,1,1.31,5.16,7.5
+DNK,04/05/2026,18:00,Midtjylland,Viborg,3,3,1.46,4.38,5.52
+DNK,08/05/2026,18:00,Viborg,Sonderjyske,0,1,1.52,4.43,4.75
+DNK,10/05/2026,13:00,Nordsjaelland,Midtjylland,0,0,2.83,3.66,2.11
+DNK,10/05/2026,13:00,Vejle,Fredericia,2,0,3.31,3.73,1.9
+DNK,10/05/2026,15:00,Silkeborg,FC Copenhagen,0,4,4.63,4.13,1.57
+DNK,10/05/2026,17:00,Brondby,Aarhus,0,2,3,3.49,2.09
+DNK,11/05/2026,18:00,Randers FC,Odense,2,2,2.19,3.47,2.84
+DNK,17/05/2026,13:00,FC Copenhagen,Randers FC,5,0,1.51,4.23,5.1
+DNK,17/05/2026,13:00,Fredericia,Silkeborg,4,1,1.85,4.03,3.3
+DNK,17/05/2026,13:00,Odense,Vejle,0,1,1.61,4.16,4.27
+DNK,17/05/2026,17:00,Aarhus,Viborg,6,2,2.22,3.62,2.72
+DNK,17/05/2026,17:00,Midtjylland,Brondby,2,3,2.14,3.47,2.95
+DNK,17/05/2026,17:00,Sonderjyske,Nordsjaelland,1,4,3.1,3.65,2.02

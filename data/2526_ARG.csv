@@ -1,0 +1,511 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,AvgH,AvgD,AvgA
+ARG,23/01/2025,22:00,Godoy Cruz,Rosario Central,0,3,2.88,2.81,2.81
+ARG,23/01/2025,22:00,Tigre,Velez Sarsfield,3,0,3.63,2.94,2.25
+ARG,24/01/2025,00:30,Defensa y Justicia,Banfield,0,1,1.86,3.28,4.63
+ARG,24/01/2025,00:30,Lanus,Dep. Riestra,0,2,1.72,3.45,5.21
+ARG,24/01/2025,00:30,Newells Old Boys,Ind. Rivadavia,0,1,2.28,2.85,3.67
+ARG,24/01/2025,20:00,Barracas Central,Racing Club,1,3,5.9,3.81,1.59
+ARG,24/01/2025,22:15,Independiente,Sarmiento Junin,2,1,1.53,3.71,7.28
+ARG,25/01/2025,00:00,Belgrano,Huracan,1,1,2.14,2.94,3.92
+ARG,25/01/2025,00:30,San Martin S.J.,Atl. Tucuman,0,1,2.67,2.88,2.98
+ARG,25/01/2025,20:00,San Lorenzo,Talleres Cordoba,1,0,3.47,2.75,2.46
+ARG,25/01/2025,22:15,Estudiantes L.P.,Union de Santa Fe,3,1,1.77,3.23,5.3
+ARG,25/01/2025,22:15,Instituto,Gimnasia L.P.,3,0,1.94,3.09,4.54
+ARG,26/01/2025,00:30,Platense,River Plate,1,1,5.83,3.28,1.71
+ARG,26/01/2025,22:00,Boca Juniors,Argentinos Jrs,0,0,2.16,2.93,3.9
+ARG,27/01/2025,00:00,Central Cordoba,Aldosivi,1,0,1.86,3.17,4.82
+ARG,27/01/2025,23:00,Banfield,Newells Old Boys,3,0,2.42,2.79,3.44
+ARG,28/01/2025,20:00,Dep. Riestra,San Martin S.J.,0,0,2.16,2.81,4.15
+ARG,28/01/2025,22:15,Rosario Central,Lanus,2,1,2.27,2.87,3.68
+ARG,28/01/2025,22:15,Sarmiento Junin,Godoy Cruz,0,0,2.34,2.94,3.41
+ARG,29/01/2025,00:30,Ind. Rivadavia,Barracas Central,0,0,1.85,3.09,5.17
+ARG,29/01/2025,00:30,Velez Sarsfield,Platense,0,1,1.87,3.02,5.18
+ARG,29/01/2025,20:00,Gimnasia L.P.,San Lorenzo,0,2,2.48,2.71,3.46
+ARG,29/01/2025,20:00,Talleres Cordoba,Independiente,2,3,2.22,2.85,3.84
+ARG,29/01/2025,22:15,Huracan,Estudiantes L.P.,0,0,3.17,2.89,2.5
+ARG,29/01/2025,22:15,Union de Santa Fe,Boca Juniors,1,1,2.93,2.87,2.69
+ARG,30/01/2025,00:30,River Plate,Instituto,1,0,1.41,4.52,7.63
+ARG,30/01/2025,20:00,Aldosivi,Defensa y Justicia,0,5,3.03,2.98,2.53
+ARG,30/01/2025,22:15,Racing Club,Belgrano,4,0,1.61,3.85,5.55
+ARG,31/01/2025,00:30,Argentinos Jrs,Tigre,1,0,2.04,3.13,3.96
+ARG,31/01/2025,00:30,Central Cordoba,Atl. Tucuman,2,0,2.44,2.91,3.24
+ARG,01/02/2025,20:00,Barracas Central,Banfield,1,0,3,2.75,2.75
+ARG,01/02/2025,22:00,San Martin S.J.,Rosario Central,0,0,3.51,2.74,2.44
+ARG,02/02/2025,00:00,Lanus,Sarmiento Junin,2,0,1.6,3.51,6.54
+ARG,02/02/2025,20:00,San Lorenzo,River Plate,0,0,4.86,3.21,1.84
+ARG,02/02/2025,22:15,Boca Juniors,Huracan,2,1,1.91,3.16,4.52
+ARG,02/02/2025,22:15,Newells Old Boys,Aldosivi,1,0,1.73,3.34,5.39
+ARG,03/02/2025,00:30,Independiente,Gimnasia L.P.,2,0,1.66,3.41,5.82
+ARG,03/02/2025,00:30,Instituto,Velez Sarsfield,2,0,2.61,2.98,2.9
+ARG,03/02/2025,20:00,Defensa y Justicia,Central Cordoba,2,1,2.08,3.08,3.93
+ARG,03/02/2025,22:15,Estudiantes L.P.,Racing Club,2,0,2.37,3.11,3.13
+ARG,03/02/2025,22:15,Tigre,Union de Santa Fe,1,0,2.38,2.82,3.48
+ARG,04/02/2025,00:30,Argentinos Jrs,Platense,1,0,2.18,2.71,4.27
+ARG,04/02/2025,00:30,Belgrano,Ind. Rivadavia,0,3,1.93,3.19,4.29
+ARG,05/02/2025,00:00,Atl. Tucuman,Dep. Riestra,0,3,1.89,3.13,4.7
+ARG,06/02/2025,20:00,Aldosivi,Barracas Central,1,3,2.36,2.82,3.49
+ARG,06/02/2025,23:00,Sarmiento Junin,San Martin S.J.,1,1,2.43,2.7,3.57
+ARG,07/02/2025,20:45,Banfield,Belgrano,1,1,2.41,2.91,3.31
+ARG,07/02/2025,23:00,Central Cordoba,Newells Old Boys,2,0,2.18,3.02,3.7
+ARG,07/02/2025,23:00,Huracan,Tigre,2,0,2.23,2.84,3.87
+ARG,08/02/2025,01:15,Ind. Rivadavia,Estudiantes L.P.,2,2,3.22,2.91,2.48
+ARG,08/02/2025,01:15,Union de Santa Fe,Argentinos Jrs,0,1,3.03,2.83,2.65
+ARG,08/02/2025,21:00,Velez Sarsfield,San Lorenzo,0,0,2.35,2.72,3.75
+ARG,08/02/2025,22:30,Rosario Central,Atl. Tucuman,3,1,1.76,3.35,5.19
+ARG,08/02/2025,23:15,River Plate,Independiente,2,0,1.76,3.49,4.78
+ARG,09/02/2025,01:15,Racing Club,Boca Juniors,2,0,2.3,3.2,3.18
+ARG,09/02/2025,20:00,Dep. Riestra,Defensa y Justicia,1,1,2.59,2.97,2.95
+ARG,09/02/2025,20:00,Platense,Instituto,1,0,2.8,2.62,3.1
+ARG,09/02/2025,22:15,Gimnasia L.P.,Godoy Cruz,3,0,1.95,3.16,4.31
+ARG,10/02/2025,00:30,Talleres Cordoba,Lanus,0,1,2.01,3.24,4.02
+ARG,11/02/2025,20:45,Barracas Central,Central Cordoba,3,3,3.7,2.73,2.35
+ARG,11/02/2025,23:00,Boca Juniors,Ind. Rivadavia,2,0,1.7,3.33,5.79
+ARG,11/02/2025,23:00,Estudiantes L.P.,Banfield,1,0,1.58,3.66,6.43
+ARG,12/02/2025,01:15,Belgrano,Aldosivi,2,0,1.65,3.55,5.79
+ARG,12/02/2025,01:15,Tigre,Racing Club,1,0,2.67,2.86,2.94
+ARG,12/02/2025,20:00,Dep. Riestra,Rosario Central,0,0,2.22,2.97,3.65
+ARG,12/02/2025,20:45,Newells Old Boys,Defensa y Justicia,0,1,2.78,3.04,2.69
+ARG,12/02/2025,23:00,Argentinos Jrs,Huracan,1,1,1.95,3,4.66
+ARG,12/02/2025,23:00,Independiente,Velez Sarsfield,3,0,1.9,3.1,4.72
+ARG,13/02/2025,01:15,Godoy Cruz,River Plate,0,0,6.05,3.73,1.59
+ARG,13/02/2025,20:45,Lanus,Gimnasia L.P.,0,0,1.91,3.15,4.54
+ARG,13/02/2025,23:00,San Lorenzo,Platense,2,1,2.6,2.45,3.74
+ARG,13/02/2025,23:00,San Martin S.J.,Talleres Cordoba,0,1,4.33,2.99,2.02
+ARG,14/02/2025,01:15,Atl. Tucuman,Sarmiento Junin,5,0,1.81,3.29,4.92
+ARG,14/02/2025,01:15,Union de Santa Fe,Instituto,0,0,2.72,2.68,3.13
+ARG,14/02/2025,23:00,Banfield,Boca Juniors,0,1,3.07,2.9,2.56
+ARG,15/02/2025,20:00,Aldosivi,Estudiantes L.P.,2,2,4.45,3.19,1.92
+ARG,15/02/2025,20:00,Defensa y Justicia,Barracas Central,1,1,1.84,3.27,4.8
+ARG,15/02/2025,22:15,Central Cordoba,Belgrano,4,0,2.27,2.92,3.6
+ARG,15/02/2025,22:15,Ind. Rivadavia,Tigre,1,4,2.34,2.78,3.67
+ARG,16/02/2025,00:30,Racing Club,Argentinos Jrs,2,3,2.6,2.9,3
+ARG,16/02/2025,20:00,Newells Old Boys,Rosario Central,1,2,3.32,2.7,2.57
+ARG,16/02/2025,22:15,River Plate,Lanus,1,0,1.58,3.78,6.01
+ARG,17/02/2025,00:30,Huracan,Union de Santa Fe,1,0,1.91,3.03,4.85
+ARG,17/02/2025,00:30,Talleres Cordoba,Atl. Tucuman,1,1,1.61,3.7,5.98
+ARG,17/02/2025,20:00,Gimnasia L.P.,San Martin S.J.,1,0,1.81,3.16,5.23
+ARG,17/02/2025,20:00,Sarmiento Junin,Dep. Riestra,2,1,2.82,2.74,2.94
+ARG,17/02/2025,22:15,Platense,Independiente,1,1,3.49,2.65,2.53
+ARG,18/02/2025,00:30,Instituto,San Lorenzo,0,1,2.41,2.69,3.67
+ARG,18/02/2025,00:30,Velez Sarsfield,Godoy Cruz,0,2,1.61,3.52,6.31
+ARG,21/02/2025,20:00,Dep. Riestra,Talleres Cordoba,0,0,4.19,3.03,2.04
+ARG,21/02/2025,22:15,Estudiantes L.P.,Central Cordoba,3,2,1.85,3.34,4.58
+ARG,21/02/2025,22:15,Godoy Cruz,Platense,1,1,3.15,2.58,2.82
+ARG,22/02/2025,00:30,Lanus,Velez Sarsfield,0,0,2.2,3.02,3.63
+ARG,22/02/2025,21:00,Independiente,Instituto,2,0,1.92,3.13,4.51
+ARG,22/02/2025,22:30,Boca Juniors,Aldosivi,2,1,1.67,3.57,5.42
+ARG,23/02/2025,00:30,San Martin S.J.,River Plate,0,2,7.77,3.88,1.48
+ARG,23/02/2025,00:45,Rosario Central,Sarmiento Junin,1,0,1.65,3.43,6.08
+ARG,23/02/2025,21:00,Huracan,San Lorenzo,2,0,2.56,2.66,3.4
+ARG,24/02/2025,00:00,Atl. Tucuman,Gimnasia L.P.,0,1,1.97,3.22,4.12
+ARG,24/02/2025,00:00,Belgrano,Defensa y Justicia,2,0,2.45,3.09,3.05
+ARG,24/02/2025,20:00,Barracas Central,Newells Old Boys,2,0,2.93,2.75,2.81
+ARG,24/02/2025,22:00,Argentinos Jrs,Ind. Rivadavia,0,0,1.62,3.54,6.16
+ARG,25/02/2025,00:00,Tigre,Banfield,1,0,2.32,2.85,3.58
+ARG,28/02/2025,23:00,Boca Juniors,Rosario Central,1,0,1.98,3.18,4.17
+ARG,01/03/2025,01:15,Central Cordoba,Dep. Riestra,0,0,1.73,3.45,5.21
+ARG,01/03/2025,01:15,San Martin S.J.,Belgrano,3,1,2.85,2.98,2.67
+ARG,01/03/2025,20:00,Aldosivi,Sarmiento Junin,2,2,2.31,2.81,3.66
+ARG,01/03/2025,22:15,River Plate,Estudiantes L.P.,0,2,1.67,3.64,5.16
+ARG,02/03/2025,00:30,Talleres Cordoba,Tigre,1,2,1.82,3.27,4.85
+ARG,02/03/2025,00:30,Union de Santa Fe,Gimnasia L.P.,1,0,2.34,2.94,3.4
+ARG,02/03/2025,20:00,Argentinos Jrs,Instituto,2,0,1.64,3.45,6.15
+ARG,02/03/2025,20:00,Ind. Rivadavia,Lanus,1,1,2.91,2.9,2.68
+ARG,02/03/2025,22:15,Velez Sarsfield,Huracan,0,2,2.48,2.75,3.4
+ARG,03/03/2025,20:00,Barracas Central,Godoy Cruz,1,2,2.41,2.79,3.48
+ARG,03/03/2025,22:00,San Lorenzo,Racing Club,3,2,2.51,2.75,3.35
+ARG,04/03/2025,00:00,Atl. Tucuman,Newells Old Boys,1,2,2.11,3.03,3.86
+ARG,04/03/2025,22:30,Banfield,Independiente,0,0,3.05,2.88,2.64
+ARG,04/03/2025,23:00,Platense,Defensa y Justicia,0,1,2.29,2.86,3.64
+ARG,07/03/2025,22:00,Banfield,Argentinos Jrs,1,2,4.58,2.98,1.97
+ARG,07/03/2025,22:00,Velez Sarsfield,San Martin S.J.,1,0,1.9,3.02,4.86
+ARG,08/03/2025,00:15,Central Cordoba,Boca Juniors,0,3,2.64,3.22,2.69
+ARG,08/03/2025,20:00,San Lorenzo,Independiente,1,2,2.92,2.73,2.85
+ARG,08/03/2025,22:15,Racing Club,Huracan,0,1,2.37,3.04,3.23
+ARG,09/03/2025,00:30,Platense,Lanus,0,0,3.04,2.78,2.69
+ARG,09/03/2025,00:30,Sarmiento Junin,Barracas Central,1,1,2.33,2.8,3.64
+ARG,09/03/2025,20:00,Aldosivi,Tigre,0,2,3.06,2.85,2.6
+ARG,09/03/2025,20:00,Defensa y Justicia,Estudiantes L.P.,1,0,2.93,2.99,2.59
+ARG,09/03/2025,22:15,River Plate,Atl. Tucuman,1,0,1.31,4.82,11.31
+ARG,10/03/2025,00:30,Instituto,Godoy Cruz,1,1,2.11,2.89,4.1
+ARG,10/03/2025,00:30,Newells Old Boys,Belgrano,0,0,2.42,3.05,3.11
+ARG,10/03/2025,22:00,Gimnasia L.P.,Dep. Riestra,1,1,2.14,2.85,4.1
+ARG,11/03/2025,00:15,Ind. Rivadavia,Union de Santa Fe,2,0,2.66,2.82,3.02
+ARG,11/03/2025,00:15,Talleres Cordoba,Rosario Central,0,0,1.95,3.11,4.39
+ARG,14/03/2025,22:00,Argentinos Jrs,Aldosivi,0,2,1.33,4.61,10.71
+ARG,15/03/2025,00:00,Godoy Cruz,San Lorenzo,0,0,3.49,2.74,2.43
+ARG,15/03/2025,19:00,Dep. Riestra,River Plate,0,0,5.44,3.46,1.7
+ARG,15/03/2025,21:30,Estudiantes L.P.,Newells Old Boys,1,1,1.68,3.57,5.31
+ARG,15/03/2025,21:30,Rosario Central,Gimnasia L.P.,2,1,2.15,2.91,3.93
+ARG,16/03/2025,00:00,Huracan,Ind. Rivadavia,2,0,1.83,3.12,5.14
+ARG,16/03/2025,00:00,Sarmiento Junin,Talleres Cordoba,0,0,4.47,3.3,1.87
+ARG,16/03/2025,19:00,Independiente,Racing Club,1,1,2.57,2.95,3
+ARG,16/03/2025,21:15,Boca Juniors,Defensa y Justicia,4,0,1.84,3.46,4.39
+ARG,17/03/2025,00:00,Belgrano,Barracas Central,1,1,1.75,3.38,5.14
+ARG,17/03/2025,00:00,Lanus,Instituto,4,1,2.07,2.92,4.26
+ARG,17/03/2025,22:00,Tigre,Central Cordoba,1,2,2.12,3.06,3.81
+ARG,17/03/2025,22:00,Union de Santa Fe,Banfield,3,1,2.2,2.83,3.96
+ARG,18/03/2025,00:15,Atl. Tucuman,Velez Sarsfield,1,2,2.4,2.89,3.36
+ARG,18/03/2025,00:15,San Martin S.J.,Platense,0,2,3.11,2.56,2.86
+ARG,21/03/2025,00:00,Union de Santa Fe,Racing Club,0,1,3.02,3,2.53
+ARG,22/03/2025,20:00,Godoy Cruz,Talleres Cordoba,0,0,4.28,3.14,1.96
+ARG,27/03/2025,18:30,Aldosivi,Union de Santa Fe,2,1,3.13,2.85,2.57
+ARG,27/03/2025,21:00,Barracas Central,Estudiantes L.P.,2,1,4.67,3.29,1.85
+ARG,28/03/2025,00:00,Ind. Rivadavia,Racing Club,2,1,3.09,3.17,2.38
+ARG,28/03/2025,20:00,Defensa y Justicia,Tigre,1,2,2.27,3.09,3.35
+ARG,28/03/2025,22:15,Banfield,Huracan,0,0,3.2,2.74,2.6
+ARG,28/03/2025,22:15,San Lorenzo,Lanus,1,1,2.84,2.79,2.86
+ARG,29/03/2025,00:30,Platense,Atl. Tucuman,2,1,1.88,3.07,4.79
+ARG,29/03/2025,00:30,Velez Sarsfield,Dep. Riestra,0,1,1.92,3.03,4.77
+ARG,29/03/2025,19:30,Instituto,San Martin S.J.,1,0,1.86,3.09,4.99
+ARG,29/03/2025,21:30,Central Cordoba,Argentinos Jrs,1,1,3.57,3.08,2.2
+ARG,29/03/2025,21:45,Independiente,Godoy Cruz,4,0,1.41,4.22,9.25
+ARG,30/03/2025,00:00,River Plate,Rosario Central,2,2,1.5,3.93,7.13
+ARG,30/03/2025,19:00,Belgrano,Talleres Cordoba,1,1,3.16,2.98,2.44
+ARG,30/03/2025,20:00,Gimnasia L.P.,Sarmiento Junin,0,0,1.82,3.24,4.81
+ARG,30/03/2025,23:30,Newells Old Boys,Boca Juniors,2,0,3.78,3.18,2.07
+ARG,04/04/2025,23:00,Estudiantes L.P.,Belgrano,0,1,1.89,3.41,4.22
+ARG,05/04/2025,02:00,San Martin S.J.,San Lorenzo,0,1,3.21,2.76,2.58
+ARG,05/04/2025,19:30,Godoy Cruz,Ind. Rivadavia,1,1,3.25,2.79,2.54
+ARG,05/04/2025,19:30,Rosario Central,Velez Sarsfield,2,1,2.21,2.88,3.84
+ARG,05/04/2025,22:00,Huracan,Aldosivi,3,3,1.83,3.24,4.79
+ARG,05/04/2025,22:00,Talleres Cordoba,Gimnasia L.P.,2,0,2.04,3.07,4.13
+ARG,06/04/2025,00:30,Sarmiento Junin,River Plate,1,1,5.14,3.54,1.72
+ARG,06/04/2025,19:30,Lanus,Independiente,1,1,2.26,3.08,3.4
+ARG,06/04/2025,19:30,Union de Santa Fe,Central Cordoba,1,0,2.11,3.22,3.61
+ARG,06/04/2025,22:00,Boca Juniors,Barracas Central,1,0,1.46,4.02,7.83
+ARG,07/04/2025,00:15,Argentinos Jrs,Defensa y Justicia,4,1,1.55,3.88,6.35
+ARG,07/04/2025,00:15,Racing Club,Banfield,4,1,1.64,3.76,5.45
+ARG,07/04/2025,19:30,Dep. Riestra,Platense,1,0,3.51,2.59,2.56
+ARG,08/04/2025,01:00,Atl. Tucuman,Instituto,3,2,2.36,2.95,3.28
+ARG,08/04/2025,01:00,Tigre,Newells Old Boys,0,2,1.96,3.1,4.35
+ARG,11/04/2025,23:00,Banfield,Ind. Rivadavia,1,1,2.53,2.84,3.16
+ARG,12/04/2025,01:00,Newells Old Boys,Argentinos Jrs,0,0,3.68,2.97,2.2
+ARG,12/04/2025,19:30,San Lorenzo,Atl. Tucuman,1,0,1.9,3.21,4.47
+ARG,12/04/2025,22:00,Barracas Central,Tigre,1,0,3.58,2.89,2.28
+ARG,13/04/2025,00:30,Belgrano,Boca Juniors,1,3,3.3,3,2.34
+ARG,13/04/2025,19:30,Gimnasia L.P.,Estudiantes L.P.,1,1,3.14,2.88,2.53
+ARG,13/04/2025,19:30,Instituto,Dep. Riestra,3,0,2.17,2.91,3.9
+ARG,13/04/2025,22:00,Independiente,San Martin S.J.,2,0,1.47,3.87,7.94
+ARG,14/04/2025,00:15,River Plate,Talleres Cordoba,1,1,1.59,3.87,5.73
+ARG,14/04/2025,19:30,Aldosivi,Racing Club,0,2,3.59,3.52,2
+ARG,14/04/2025,22:00,Central Cordoba,Huracan,1,2,2.33,2.88,3.5
+ARG,14/04/2025,23:00,Defensa y Justicia,Union de Santa Fe,0,0,2.61,2.95,2.94
+ARG,15/04/2025,01:15,Godoy Cruz,Lanus,0,0,3.47,2.96,2.28
+ARG,15/04/2025,01:15,Velez Sarsfield,Sarmiento Junin,0,1,1.66,3.44,5.83
+ARG,16/04/2025,00:00,Platense,Rosario Central,0,0,2.4,2.63,3.76
+ARG,18/04/2025,21:00,Gimnasia L.P.,River Plate,0,3,4.39,3.45,1.85
+ARG,18/04/2025,23:15,Racing Club,Central Cordoba,1,0,1.56,4.02,5.87
+ARG,18/04/2025,23:15,Talleres Cordoba,Velez Sarsfield,0,1,2.29,3.07,3.32
+ARG,19/04/2025,01:30,Union de Santa Fe,Newells Old Boys,1,1,2.25,2.98,3.51
+ARG,19/04/2025,20:15,Lanus,Banfield,1,1,1.87,2.99,5.22
+ARG,19/04/2025,22:15,Huracan,Defensa y Justicia,1,1,2.07,3.05,4.02
+ARG,20/04/2025,00:30,Boca Juniors,Estudiantes L.P.,2,0,2.08,3.09,3.87
+ARG,20/04/2025,19:30,Dep. Riestra,San Lorenzo,0,0,3.42,2.67,2.53
+ARG,20/04/2025,20:30,San Martin S.J.,Godoy Cruz,1,0,2.56,2.8,3.17
+ARG,20/04/2025,22:00,Sarmiento Junin,Platense,0,1,3.62,2.65,2.45
+ARG,21/04/2025,00:30,Rosario Central,Instituto,3,0,2.08,2.99,4.03
+ARG,22/04/2025,23:00,Argentinos Jrs,Barracas Central,3,0,1.55,3.72,6.84
+ARG,22/04/2025,23:00,Tigre,Belgrano,0,0,2.05,3.19,3.81
+ARG,23/04/2025,01:15,Ind. Rivadavia,Aldosivi,1,0,1.93,3.27,4.24
+ARG,26/04/2025,19:00,Aldosivi,Banfield,2,1,2.47,2.78,3.37
+ARG,26/04/2025,21:00,San Lorenzo,Rosario Central,0,1,2.45,2.68,3.59
+ARG,26/04/2025,23:00,Belgrano,Argentinos Jrs,1,1,3.38,3.01,2.31
+ARG,27/04/2025,19:30,River Plate,Boca Juniors,2,1,1.91,3.12,4.6
+ARG,27/04/2025,23:00,Instituto,Sarmiento Junin,1,1,1.94,3.16,4.34
+ARG,27/04/2025,23:00,Lanus,San Martin S.J.,1,0,1.66,3.27,6.47
+ARG,28/04/2025,01:15,Independiente,Dep. Riestra,0,0,1.57,3.54,6.89
+ARG,28/04/2025,19:00,Barracas Central,Union de Santa Fe,2,1,2.96,2.87,2.67
+ARG,28/04/2025,21:15,Godoy Cruz,Atl. Tucuman,1,0,2.36,3.06,3.17
+ARG,28/04/2025,23:30,Defensa y Justicia,Racing Club,1,2,3.6,3.39,2.03
+ARG,28/04/2025,23:30,Estudiantes L.P.,Tigre,0,0,2.11,3.01,3.92
+ARG,29/04/2025,01:45,Central Cordoba,Ind. Rivadavia,1,2,1.92,3.15,4.45
+ARG,29/04/2025,01:45,Velez Sarsfield,Gimnasia L.P.,1,0,2.1,2.94,4.05
+ARG,29/04/2025,23:00,Newells Old Boys,Huracan,2,0,2.75,2.88,2.87
+ARG,29/04/2025,23:00,Platense,Talleres Cordoba,2,1,2.71,2.8,2.98
+ARG,01/05/2025,01:00,Atl. Tucuman,Independiente,2,0,3.13,3.01,2.44
+ARG,02/05/2025,19:30,Argentinos Jrs,Estudiantes L.P.,4,0,2.09,3.08,3.87
+ARG,02/05/2025,19:30,Banfield,Central Cordoba,3,1,1.96,3.23,4.13
+ARG,02/05/2025,19:30,Ind. Rivadavia,Defensa y Justicia,3,2,2.3,3.04,3.34
+ARG,02/05/2025,19:30,Racing Club,Newells Old Boys,1,0,1.72,3.68,4.84
+ARG,02/05/2025,22:00,Union de Santa Fe,Belgrano,1,1,2.26,3.17,3.3
+ARG,03/05/2025,20:00,Dep. Riestra,Godoy Cruz,3,0,2.62,2.6,3.35
+ARG,03/05/2025,20:00,Sarmiento Junin,San Lorenzo,1,1,3.31,2.69,2.57
+ARG,03/05/2025,20:00,Talleres Cordoba,Instituto,1,2,2.07,3.13,3.83
+ARG,03/05/2025,22:30,Rosario Central,Independiente,1,0,1.99,2.9,4.64
+ARG,04/05/2025,01:00,Atl. Tucuman,Lanus,1,0,2.15,3.03,3.79
+ARG,04/05/2025,01:00,Huracan,Barracas Central,0,1,1.97,3.01,4.5
+ARG,04/05/2025,19:30,Gimnasia L.P.,Platense,1,0,2.15,2.89,4.05
+ARG,04/05/2025,19:30,San Martin S.J.,Aldosivi,0,3,2.21,2.95,3.77
+ARG,04/05/2025,22:00,Tigre,Boca Juniors,1,1,3.55,2.88,2.31
+ARG,05/05/2025,00:30,River Plate,Velez Sarsfield,4,1,1.54,3.87,6.43
+ARG,10/05/2025,18:00,San Lorenzo,Tigre,2,1,2.23,2.71,4.1
+ARG,10/05/2025,20:30,Rosario Central,Estudiantes L.P.,2,0,2.45,2.74,3.47
+ARG,10/05/2025,22:45,Racing Club,Platense,0,1,1.85,3.4,4.4
+ARG,11/05/2025,01:00,Boca Juniors,Lanus,0,0,1.91,3.02,4.81
+ARG,11/05/2025,19:30,Independiente,Ind. Rivadavia,1,0,1.63,3.54,5.94
+ARG,11/05/2025,22:00,Argentinos Jrs,Instituto,3,1,1.58,3.64,6.45
+ARG,12/05/2025,00:30,Huracan,Dep. Riestra,3,2,2.01,2.77,4.85
+ARG,13/05/2025,00:30,River Plate,Barracas Central,3,0,1.36,4.5,9.4
+ARG,18/05/2025,23:00,Rosario Central,Huracan,0,1,2.01,2.75,5.01
+ARG,19/05/2025,23:00,Argentinos Jrs,San Lorenzo,1,1,1.74,3.06,6.28
+ARG,20/05/2025,01:30,Boca Juniors,Independiente,0,1,2.35,2.87,3.49
+ARG,21/05/2025,00:30,River Plate,Platense,1,1,1.49,3.8,8.2
+ARG,24/05/2025,22:30,Independiente,Huracan,0,0,2.2,2.83,3.95
+ARG,25/05/2025,20:00,San Lorenzo,Platense,0,1,2.56,2.51,3.72
+ARG,01/06/2025,21:00,Huracan,Platense,0,1,2.51,2.54,3.72
+ARG,11/07/2025,19:30,Aldosivi,Central Cordoba,0,0,2.96,2.86,2.55
+ARG,12/07/2025,00:00,Talleres Cordoba,San Lorenzo,1,2,2.12,2.85,3.92
+ARG,12/07/2025,20:00,Rosario Central,Godoy Cruz,1,1,1.51,3.6,7.32
+ARG,12/07/2025,22:30,Gimnasia L.P.,Instituto,0,1,2.58,2.75,3.06
+ARG,12/07/2025,22:30,Huracan,Belgrano,0,3,2.08,2.94,3.89
+ARG,13/07/2025,00:45,Racing Club,Barracas Central,0,1,1.45,4.04,7.2
+ARG,13/07/2025,18:15,Sarmiento Junin,Independiente,2,2,4.17,3.15,1.93
+ARG,13/07/2025,20:30,Atl. Tucuman,San Martin S.J.,2,1,1.89,3.15,4.32
+ARG,13/07/2025,20:30,Ind. Rivadavia,Newells Old Boys,1,2,1.89,3.05,4.47
+ARG,13/07/2025,22:45,Argentinos Jrs,Boca Juniors,0,0,2.25,2.84,3.54
+ARG,14/07/2025,01:00,River Plate,Platense,3,1,1.56,3.55,6.49
+ARG,14/07/2025,20:30,Dep. Riestra,Lanus,1,0,3.71,2.7,2.3
+ARG,14/07/2025,23:00,Banfield,Defensa y Justicia,0,0,3.23,3.03,2.28
+ARG,15/07/2025,01:15,Union de Santa Fe,Estudiantes L.P.,1,0,2.58,2.86,2.92
+ARG,15/07/2025,01:15,Velez Sarsfield,Tigre,2,1,2.03,2.84,4.3
+ARG,18/07/2025,23:30,Boca Juniors,Union de Santa Fe,1,1,1.77,3.21,4.91
+ARG,19/07/2025,01:30,Atl. Tucuman,Central Cordoba,1,1,2.31,2.82,3.44
+ARG,19/07/2025,18:30,San Lorenzo,Gimnasia L.P.,0,0,2.03,2.83,4.32
+ARG,19/07/2025,20:30,Lanus,Rosario Central,0,1,2.17,2.87,3.75
+ARG,19/07/2025,22:45,Godoy Cruz,Sarmiento Junin,0,0,1.83,3.11,4.89
+ARG,19/07/2025,22:45,Platense,Velez Sarsfield,0,0,2.62,2.67,3.12
+ARG,20/07/2025,01:00,Instituto,River Plate,0,4,3.52,3.02,2.16
+ARG,20/07/2025,18:30,Barracas Central,Ind. Rivadavia,0,3,2.53,2.78,3.08
+ARG,20/07/2025,20:45,Newells Old Boys,Banfield,1,2,1.87,3.1,4.57
+ARG,20/07/2025,20:45,Tigre,Argentinos Jrs,2,1,3.52,2.91,2.23
+ARG,20/07/2025,23:00,Belgrano,Racing Club,0,1,2.83,3.07,2.52
+ARG,21/07/2025,01:00,Independiente,Talleres Cordoba,1,2,1.76,3.29,4.97
+ARG,21/07/2025,23:00,Estudiantes L.P.,Huracan,2,1,2.23,2.73,3.84
+ARG,22/07/2025,01:15,Defensa y Justicia,Aldosivi,2,0,1.9,3.08,4.44
+ARG,22/07/2025,01:15,San Martin S.J.,Dep. Riestra,3,2,2.73,2.61,3.04
+ARG,25/07/2025,23:00,Sarmiento Junin,Lanus,0,2,3.63,2.67,2.33
+ARG,26/07/2025,01:15,Ind. Rivadavia,Belgrano,0,0,2.21,2.97,3.47
+ARG,26/07/2025,01:15,Union de Santa Fe,Tigre,0,0,2.14,2.94,3.74
+ARG,26/07/2025,18:30,Aldosivi,Newells Old Boys,0,0,2.76,2.9,2.69
+ARG,26/07/2025,20:45,Rosario Central,San Martin S.J.,0,0,1.65,3.37,5.85
+ARG,26/07/2025,23:00,Platense,Argentinos Jrs,0,0,3.53,2.63,2.41
+ARG,26/07/2025,23:15,Velez Sarsfield,Instituto,0,0,2,3,4.11
+ARG,27/07/2025,01:15,Racing Club,Estudiantes L.P.,0,1,1.94,3.22,4
+ARG,27/07/2025,20:00,Gimnasia L.P.,Independiente,1,0,4.14,3.01,1.99
+ARG,27/07/2025,20:00,Talleres Cordoba,Godoy Cruz,0,0,1.81,3.17,4.76
+ARG,27/07/2025,22:30,Huracan,Boca Juniors,1,0,3,2.67,2.72
+ARG,28/07/2025,00:30,River Plate,San Lorenzo,0,0,1.51,3.56,7.26
+ARG,28/07/2025,20:00,Dep. Riestra,Atl. Tucuman,1,0,2.27,2.85,3.53
+ARG,28/07/2025,22:00,Central Cordoba,Defensa y Justicia,2,1,2.19,3.02,3.43
+ARG,29/07/2025,00:00,Banfield,Barracas Central,1,3,2.34,2.69,3.6
+ARG,07/08/2025,21:00,Godoy Cruz,Gimnasia L.P.,1,2,1.93,3.04,4.47
+ARG,07/08/2025,23:00,San Lorenzo,Velez Sarsfield,1,0,2.53,2.53,3.59
+ARG,08/08/2025,01:00,Estudiantes L.P.,Ind. Rivadavia,2,1,2.34,2.89,3.33
+ARG,08/08/2025,23:00,Tigre,Huracan,0,1,2.77,2.52,3.18
+ARG,09/08/2025,01:00,Newells Old Boys,Central Cordoba,1,1,2.33,2.92,3.33
+ARG,09/08/2025,01:15,Lanus,Talleres Cordoba,1,0,2.24,2.82,3.69
+ARG,09/08/2025,18:30,San Martin S.J.,Sarmiento Junin,0,1,2.13,2.87,3.93
+ARG,09/08/2025,20:30,Boca Juniors,Racing Club,1,1,2.39,2.96,3.2
+ARG,09/08/2025,22:30,Independiente,River Plate,0,0,3.01,2.93,2.51
+ARG,10/08/2025,00:45,Atl. Tucuman,Rosario Central,0,0,3.49,2.73,2.4
+ARG,10/08/2025,00:45,Belgrano,Banfield,2,1,1.87,3.05,4.81
+ARG,10/08/2025,19:00,Barracas Central,Aldosivi,3,1,2.2,2.87,3.7
+ARG,10/08/2025,21:00,Instituto,Platense,1,1,2.43,2.72,3.44
+ARG,11/08/2025,00:00,Argentinos Jrs,Union de Santa Fe,1,0,1.69,3.39,5.4
+ARG,11/08/2025,23:00,Defensa y Justicia,Dep. Riestra,1,0,2.08,3.01,3.88
+ARG,15/08/2025,19:30,Aldosivi,Belgrano,0,0,3.39,2.85,2.36
+ARG,15/08/2025,23:00,Instituto,Union de Santa Fe,0,4,2.36,2.87,3.36
+ARG,16/08/2025,01:00,Racing Club,Tigre,1,2,2.15,3,3.67
+ARG,16/08/2025,18:15,Platense,San Lorenzo,2,1,2.39,2.58,3.8
+ARG,16/08/2025,20:15,Huracan,Argentinos Jrs,1,0,4.16,2.79,2.11
+ARG,16/08/2025,22:30,Rosario Central,Dep. Riestra,1,1,1.58,3.35,7.19
+ARG,17/08/2025,00:30,Velez Sarsfield,Independiente,2,1,3,2.81,2.63
+ARG,17/08/2025,18:00,Defensa y Justicia,Newells Old Boys,1,1,1.7,3.38,5.45
+ARG,17/08/2025,18:00,Gimnasia L.P.,Lanus,1,2,2.36,2.81,3.44
+ARG,17/08/2025,20:15,Banfield,Estudiantes L.P.,3,2,2.62,2.86,2.96
+ARG,17/08/2025,20:15,Central Cordoba,Barracas Central,1,1,2.06,3.06,3.87
+ARG,17/08/2025,22:30,River Plate,Godoy Cruz,4,2,1.69,3.45,5.3
+ARG,18/08/2025,00:30,Ind. Rivadavia,Boca Juniors,0,3,2.97,2.93,2.56
+ARG,18/08/2025,23:00,Sarmiento Junin,Atl. Tucuman,2,2,2.83,2.78,2.78
+ARG,19/08/2025,01:00,Talleres Cordoba,San Martin S.J.,0,0,1.75,3.29,5.07
+ARG,22/08/2025,19:30,Barracas Central,Defensa y Justicia,1,1,2.54,3.06,2.96
+ARG,23/08/2025,00:00,Tigre,Ind. Rivadavia,1,1,2.24,2.81,3.74
+ARG,23/08/2025,18:30,San Lorenzo,Instituto,1,0,2.18,2.8,3.94
+ARG,23/08/2025,21:30,Rosario Central,Newells Old Boys,1,0,1.78,3.05,5.52
+ARG,24/08/2025,00:00,Atl. Tucuman,Talleres Cordoba,3,0,2.39,2.92,3.22
+ARG,24/08/2025,00:00,San Martin S.J.,Gimnasia L.P.,1,0,2.33,2.78,3.54
+ARG,24/08/2025,18:00,Union de Santa Fe,Huracan,1,1,2.18,2.89,3.77
+ARG,24/08/2025,20:15,Argentinos Jrs,Racing Club,4,1,2.26,2.99,3.41
+ARG,24/08/2025,22:15,Boca Juniors,Banfield,2,0,1.71,3.39,5.19
+ARG,25/08/2025,19:00,Dep. Riestra,Sarmiento Junin,3,0,2.06,2.86,4.26
+ARG,25/08/2025,21:00,Godoy Cruz,Velez Sarsfield,0,2,2.54,2.8,3.13
+ARG,25/08/2025,23:00,Belgrano,Central Cordoba,0,3,1.97,3.08,4.21
+ARG,25/08/2025,23:15,Estudiantes L.P.,Aldosivi,1,0,1.63,3.5,5.75
+ARG,26/08/2025,01:15,Lanus,River Plate,1,1,2.85,2.89,2.66
+ARG,29/08/2025,23:00,Banfield,Tigre,1,0,2.65,2.76,3.02
+ARG,29/08/2025,23:00,Newells Old Boys,Barracas Central,1,2,2.25,2.95,3.46
+ARG,30/08/2025,01:15,Instituto,Independiente,0,0,2.99,2.86,2.6
+ARG,30/08/2025,18:45,San Lorenzo,Huracan,0,0,2.46,2.61,3.54
+ARG,30/08/2025,21:00,Central Cordoba,Estudiantes L.P.,2,0,2.89,2.88,2.65
+ARG,30/08/2025,21:00,Ind. Rivadavia,Argentinos Jrs,2,1,3.14,2.88,2.46
+ARG,31/08/2025,01:30,Velez Sarsfield,Lanus,3,0,2.24,2.82,3.71
+ARG,31/08/2025,18:30,Aldosivi,Boca Juniors,0,2,5.51,3.22,1.72
+ARG,31/08/2025,20:45,Defensa y Justicia,Belgrano,2,1,2.24,2.93,3.52
+ARG,31/08/2025,20:45,Talleres Cordoba,Dep. Riestra,0,1,1.88,3.14,4.58
+ARG,31/08/2025,23:15,River Plate,San Martin S.J.,2,0,1.38,4.29,8.98
+ARG,01/09/2025,01:15,Racing Club,Union de Santa Fe,2,3,1.78,3.35,4.71
+ARG,01/09/2025,21:00,Gimnasia L.P.,Atl. Tucuman,1,0,2.67,2.8,2.95
+ARG,01/09/2025,23:15,Platense,Godoy Cruz,1,3,2.25,2.74,3.8
+ARG,12/09/2025,00:00,Belgrano,San Martin S.J.,0,0,2.03,2.83,4.46
+ARG,12/09/2025,18:30,Dep. Riestra,Central Cordoba,2,0,2.37,2.79,3.44
+ARG,12/09/2025,23:00,Huracan,Velez Sarsfield,0,0,2.3,2.66,3.89
+ARG,12/09/2025,23:00,Racing Club,San Lorenzo,2,0,1.93,3.06,4.48
+ARG,13/09/2025,01:15,Lanus,Ind. Rivadavia,1,0,1.95,3.06,4.34
+ARG,13/09/2025,01:15,Newells Old Boys,Atl. Tucuman,2,0,2.39,2.89,3.28
+ARG,13/09/2025,18:30,Godoy Cruz,Barracas Central,0,0,2.16,2.91,3.79
+ARG,13/09/2025,20:45,Independiente,Banfield,0,1,1.81,3.2,4.93
+ARG,13/09/2025,23:00,Estudiantes L.P.,River Plate,1,2,2.96,2.96,2.52
+ARG,14/09/2025,01:15,Sarmiento Junin,Aldosivi,2,0,2.24,2.89,3.59
+ARG,14/09/2025,19:00,Gimnasia L.P.,Union de Santa Fe,1,3,3.38,2.85,2.35
+ARG,14/09/2025,19:00,Instituto,Argentinos Jrs,2,0,4.11,2.97,2.04
+ARG,14/09/2025,21:30,Rosario Central,Boca Juniors,1,1,2.52,2.85,3.08
+ARG,15/09/2025,00:00,Defensa y Justicia,Platense,1,2,2.35,2.88,3.36
+ARG,15/09/2025,00:00,Tigre,Talleres Cordoba,0,0,2.87,2.78,2.77
+ARG,19/09/2025,21:00,Dep. Riestra,Gimnasia L.P.,1,0,2.02,2.96,4.21
+ARG,19/09/2025,23:00,Huracan,Racing Club,0,2,2.01,2.99,4.24
+ARG,19/09/2025,23:15,San Martin S.J.,Velez Sarsfield,1,2,2.41,2.73,3.48
+ARG,20/09/2025,01:15,Lanus,Platense,2,1,2.63,2.7,3.13
+ARG,20/09/2025,18:30,Barracas Central,Sarmiento Junin,0,1,2.16,2.85,3.95
+ARG,20/09/2025,20:45,Union de Santa Fe,Ind. Rivadavia,2,2,1.86,3.35,4.27
+ARG,21/09/2025,01:15,Atl. Tucuman,River Plate,2,0,2.79,3.16,2.53
+ARG,21/09/2025,16:00,Tigre,Aldosivi,2,0,1.76,3.19,5.33
+ARG,21/09/2025,18:30,Independiente,San Lorenzo,1,1,2.13,2.8,4.1
+ARG,21/09/2025,20:45,Godoy Cruz,Instituto,1,1,2.54,2.79,3.15
+ARG,21/09/2025,23:00,Argentinos Jrs,Banfield,3,0,1.67,3.38,5.65
+ARG,21/09/2025,23:00,Rosario Central,Talleres Cordoba,1,1,2.06,2.97,4.06
+ARG,22/09/2025,01:15,Boca Juniors,Central Cordoba,2,2,1.54,3.64,6.87
+ARG,22/09/2025,23:00,Estudiantes L.P.,Defensa y Justicia,1,0,2.44,2.97,3.07
+ARG,23/09/2025,01:00,Belgrano,Newells Old Boys,3,0,1.77,3.31,4.89
+ARG,26/09/2025,23:00,Banfield,Union de Santa Fe,0,0,2.96,2.85,2.62
+ARG,26/09/2025,23:00,Platense,San Martin S.J.,2,2,1.83,3.04,5.15
+ARG,27/09/2025,01:15,Central Cordoba,Tigre,0,1,2.39,2.84,3.33
+ARG,27/09/2025,18:30,Aldosivi,Argentinos Jrs,0,2,5.61,3.31,1.7
+ARG,27/09/2025,18:30,Gimnasia L.P.,Rosario Central,0,3,4.25,2.99,1.99
+ARG,27/09/2025,20:45,San Lorenzo,Godoy Cruz,2,0,1.9,2.86,5.18
+ARG,27/09/2025,23:00,Defensa y Justicia,Boca Juniors,2,1,3.75,3.11,2.08
+ARG,28/09/2025,01:15,Talleres Cordoba,Sarmiento Junin,1,0,1.63,3.42,6.08
+ARG,28/09/2025,19:15,Racing Club,Independiente,0,0,2.24,2.96,3.49
+ARG,28/09/2025,22:00,River Plate,Dep. Riestra,1,2,1.48,3.78,7.82
+ARG,28/09/2025,23:30,Ind. Rivadavia,Huracan,0,0,2.49,2.76,3.25
+ARG,29/09/2025,00:15,Instituto,Lanus,0,0,2.74,2.77,2.91
+ARG,29/09/2025,19:30,Barracas Central,Belgrano,1,1,2.96,2.8,2.69
+ARG,30/09/2025,00:00,Velez Sarsfield,Atl. Tucuman,3,1,1.9,3.12,4.5
+ARG,30/09/2025,23:00,Newells Old Boys,Estudiantes L.P.,1,1,3.12,2.84,2.5
+ARG,03/10/2025,23:00,Tigre,Defensa y Justicia,1,1,2.29,2.9,3.47
+ARG,04/10/2025,01:15,Argentinos Jrs,Central Cordoba,0,0,1.54,3.73,6.56
+ARG,04/10/2025,01:15,Union de Santa Fe,Aldosivi,0,2,1.57,3.55,6.45
+ARG,04/10/2025,18:30,Sarmiento Junin,Gimnasia L.P.,0,1,2.28,2.86,3.56
+ARG,04/10/2025,20:45,San Martin S.J.,Instituto,0,0,2.52,2.73,3.24
+ARG,04/10/2025,23:00,Atl. Tucuman,Platense,2,0,2.06,3.08,3.88
+ARG,04/10/2025,23:00,Huracan,Banfield,1,0,2.19,2.79,3.89
+ARG,05/10/2025,01:15,Lanus,San Lorenzo,2,1,2.38,2.65,3.69
+ARG,05/10/2025,18:30,Godoy Cruz,Independiente,1,1,3.03,2.8,2.61
+ARG,05/10/2025,20:30,Estudiantes L.P.,Barracas Central,1,1,1.58,3.61,6.32
+ARG,05/10/2025,20:45,Talleres Cordoba,Belgrano,0,0,2.3,2.88,3.47
+ARG,05/10/2025,23:00,Boca Juniors,Newells Old Boys,5,0,1.41,4.21,8.02
+ARG,06/10/2025,01:15,Rosario Central,River Plate,2,1,2.9,2.82,2.7
+ARG,06/10/2025,23:00,Dep. Riestra,Velez Sarsfield,2,2,2.97,2.67,2.79
+ARG,07/10/2025,01:00,Racing Club,Ind. Rivadavia,0,0,2.06,3.12,3.79
+ARG,10/10/2025,18:30,San Lorenzo,San Martin S.J.,0,1,1.75,3.03,5.88
+ARG,10/10/2025,20:15,Defensa y Justicia,Argentinos Jrs,1,0,3.59,2.96,2.2
+ARG,10/10/2025,20:45,Central Cordoba,Union de Santa Fe,3,1,2.54,2.78,3.17
+ARG,10/10/2025,22:30,Newells Old Boys,Tigre,1,1,2.59,2.86,2.97
+ARG,11/10/2025,20:00,Gimnasia L.P.,Talleres Cordoba,1,2,3.65,2.82,2.27
+ARG,11/10/2025,22:00,Banfield,Racing Club,1,3,2.5,2.99,2.97
+ARG,12/10/2025,02:15,Belgrano,Estudiantes L.P.,1,1,2.59,2.89,2.97
+ARG,12/10/2025,02:15,Velez Sarsfield,Rosario Central,1,2,2.51,2.84,3.11
+ARG,12/10/2025,18:30,Aldosivi,Huracan,2,0,3.58,2.89,2.25
+ARG,12/10/2025,20:45,Ind. Rivadavia,Godoy Cruz,0,0,2.1,2.94,3.93
+ARG,12/10/2025,20:45,Instituto,Atl. Tucuman,2,0,2.2,3.03,3.49
+ARG,12/10/2025,23:15,River Plate,Sarmiento Junin,0,1,1.34,4.45,9.94
+ARG,13/10/2025,01:15,Independiente,Lanus,0,2,2.17,2.87,3.84
+ARG,13/10/2025,22:30,Platense,Dep. Riestra,1,1,2.56,2.73,3.17
+ARG,17/10/2025,23:00,Racing Club,Aldosivi,1,0,1.77,3.45,4.71
+ARG,18/10/2025,01:15,Argentinos Jrs,Newells Old Boys,3,1,1.53,3.74,6.64
+ARG,18/10/2025,01:15,Lanus,Godoy Cruz,2,0,2.26,2.85,3.63
+ARG,18/10/2025,19:45,Ind. Rivadavia,Banfield,1,2,2.34,2.9,3.34
+ARG,18/10/2025,22:00,Boca Juniors,Belgrano,1,2,1.57,3.59,6.51
+ARG,19/10/2025,00:30,Talleres Cordoba,River Plate,0,2,3.19,2.96,2.39
+ARG,19/10/2025,19:00,Estudiantes L.P.,Gimnasia L.P.,2,0,1.5,3.69,7.63
+ARG,19/10/2025,19:00,Sarmiento Junin,Velez Sarsfield,0,2,3.56,2.84,2.29
+ARG,19/10/2025,22:00,Rosario Central,Platense,1,0,1.62,3.37,6.59
+ARG,19/10/2025,22:00,San Martin S.J.,Independiente,1,0,3.14,2.8,2.53
+ARG,20/10/2025,23:00,Dep. Riestra,Instituto,1,0,2.37,2.67,3.67
+ARG,20/10/2025,23:00,Tigre,Barracas Central,2,2,2.39,2.79,3.4
+ARG,21/10/2025,01:15,Atl. Tucuman,San Lorenzo,1,2,2.6,2.74,3.11
+ARG,21/10/2025,23:15,Union de Santa Fe,Defensa y Justicia,3,0,2.1,3.05,3.8
+ARG,22/10/2025,23:30,Huracan,Central Cordoba,0,1,2.18,2.75,4.05
+ARG,24/10/2025,20:00,Sarmiento Junin,Rosario Central,0,1,4.19,2.99,2
+ARG,24/10/2025,22:00,Independiente,Platense,3,0,1.96,2.97,4.48
+ARG,27/10/2025,19:00,Barracas Central,Boca Juniors,1,3,5.26,2.99,1.83
+ARG,31/10/2025,22:00,San Lorenzo,Dep. Riestra,1,0,2.08,2.7,4.57
+ARG,01/11/2025,00:15,Instituto,Rosario Central,1,3,3.27,2.94,2.36
+ARG,01/11/2025,00:15,Newells Old Boys,Union de Santa Fe,0,1,3.74,2.82,2.24
+ARG,01/11/2025,17:45,Aldosivi,Ind. Rivadavia,3,1,1.93,3.07,4.37
+ARG,01/11/2025,19:00,Barracas Central,Argentinos Jrs,2,0,3.29,2.91,2.37
+ARG,01/11/2025,20:00,Velez Sarsfield,Talleres Cordoba,0,1,2.09,3,3.87
+ARG,01/11/2025,23:00,Independiente,Atl. Tucuman,3,0,1.8,3.29,4.68
+ARG,02/11/2025,19:00,Estudiantes L.P.,Boca Juniors,1,2,2.27,2.9,3.53
+ARG,02/11/2025,21:30,Godoy Cruz,San Martin S.J.,0,0,2.26,2.71,3.89
+ARG,02/11/2025,23:30,River Plate,Gimnasia L.P.,0,1,1.29,4.97,10.86
+ARG,03/11/2025,19:45,Defensa y Justicia,Huracan,1,3,2.47,2.9,3.13
+ARG,03/11/2025,19:45,Platense,Sarmiento Junin,1,1,1.7,3.25,5.7
+ARG,03/11/2025,22:00,Central Cordoba,Racing Club,0,0,2.5,2.95,3.02
+ARG,04/11/2025,00:15,Banfield,Lanus,2,1,2.46,2.81,3.24
+ARG,04/11/2025,00:15,Belgrano,Tigre,0,0,2.1,3.01,3.82
+ARG,08/11/2025,00:00,Rosario Central,San Lorenzo,0,0,1.93,2.87,4.93
+ARG,08/11/2025,20:00,Huracan,Newells Old Boys,0,2,1.81,3.1,5.1
+ARG,08/11/2025,20:00,Racing Club,Defensa y Justicia,1,0,1.75,3.33,5.06
+ARG,08/11/2025,22:15,Talleres Cordoba,Platense,1,0,1.79,2.97,5.77
+ARG,09/11/2025,00:30,San Martin S.J.,Lanus,1,1,2.9,2.77,2.74
+ARG,09/11/2025,00:30,Union de Santa Fe,Barracas Central,0,0,1.87,3.11,4.74
+ARG,09/11/2025,19:30,Boca Juniors,River Plate,2,0,2.48,2.81,3.24
+ARG,09/11/2025,22:20,Banfield,Aldosivi,0,1,1.91,3.01,4.69
+ARG,09/11/2025,22:20,Sarmiento Junin,Instituto,2,1,2.99,2.73,2.73
+ARG,10/11/2025,00:30,Atl. Tucuman,Godoy Cruz,2,1,2.35,2.89,3.34
+ARG,10/11/2025,00:30,Tigre,Estudiantes L.P.,1,0,3.58,2.77,2.33
+ARG,10/11/2025,20:00,Gimnasia L.P.,Velez Sarsfield,2,0,3.56,2.88,2.22
+ARG,10/11/2025,22:00,Dep. Riestra,Independiente,0,1,2.91,2.59,2.94
+ARG,11/11/2025,00:15,Argentinos Jrs,Belgrano,1,0,1.73,3.35,5.23
+ARG,11/11/2025,00:15,Ind. Rivadavia,Central Cordoba,0,0,2.6,2.91,2.93
+ARG,14/11/2025,23:00,Lanus,Atl. Tucuman,3,1,1.73,3.39,5.08
+ARG,15/11/2025,20:00,Aldosivi,San Martin S.J.,4,2,2.24,2.87,3.63
+ARG,15/11/2025,20:00,Godoy Cruz,Dep. Riestra,1,1,1.77,3.22,5.11
+ARG,15/11/2025,22:30,San Lorenzo,Sarmiento Junin,1,1,1.88,2.93,5.09
+ARG,16/11/2025,00:30,Independiente,Rosario Central,1,0,2.01,2.97,4.25
+ARG,16/11/2025,20:00,Instituto,Talleres Cordoba,0,0,2.95,2.76,2.71
+ARG,16/11/2025,20:00,Velez Sarsfield,River Plate,0,0,3.23,2.99,2.34
+ARG,16/11/2025,23:15,Boca Juniors,Tigre,2,0,1.47,3.77,8.26
+ARG,16/11/2025,23:15,Central Cordoba,Banfield,1,1,2.56,2.85,3.04
+ARG,16/11/2025,23:15,Estudiantes L.P.,Argentinos Jrs,1,2,2.19,2.88,3.74
+ARG,16/11/2025,23:15,Newells Old Boys,Racing Club,0,1,3.71,3.2,2.05
+ARG,17/11/2025,20:00,Barracas Central,Huracan,1,1,3.03,2.67,2.75
+ARG,17/11/2025,20:00,Belgrano,Union de Santa Fe,0,0,2.11,2.99,3.87
+ARG,17/11/2025,20:00,Defensa y Justicia,Ind. Rivadavia,0,2,1.8,3.33,4.65
+ARG,17/11/2025,22:30,Platense,Gimnasia L.P.,0,3,2.65,2.73,3.12
+ARG,22/11/2025,23:00,Velez Sarsfield,Argentinos Jrs,0,2,2.82,2.83,2.76
+ARG,23/11/2025,01:00,Central Cordoba,San Lorenzo,2,1,2.97,2.52,2.97
+ARG,23/11/2025,20:30,Rosario Central,Estudiantes L.P.,0,1,2.29,2.86,3.54
+ARG,23/11/2025,23:00,Boca Juniors,Talleres Cordoba,2,0,1.65,3.36,6.1
+ARG,24/11/2025,20:00,Dep. Riestra,Barracas Central,0,0,2.12,2.82,4.1
+ARG,24/11/2025,22:15,Racing Club,River Plate,3,2,2.7,2.97,2.76
+ARG,25/11/2025,01:00,Union de Santa Fe,Gimnasia L.P.,1,2,1.76,3.26,5.11
+ARG,27/11/2025,00:30,Lanus,Tigre,0,1,1.97,2.97,4.44
+ARG,30/11/2025,00:30,Central Cordoba,Estudiantes L.P.,0,1,3.05,2.78,2.62
+ARG,30/11/2025,21:30,Boca Juniors,Argentinos Jrs,1,0,1.99,3.04,4.22
+ARG,01/12/2025,20:00,Barracas Central,Gimnasia L.P.,0,2,2.63,2.74,3.08
+ARG,02/12/2025,00:30,Racing Club,Tigre,0,0,1.69,3.3,5.73
+ARG,07/12/2025,22:00,Boca Juniors,Racing Club,0,1,1.9,3.19,4.35
+ARG,08/12/2025,20:00,Gimnasia L.P.,Estudiantes L.P.,0,1,3.55,2.75,2.36
+ARG,14/12/2025,00:00,Racing Club,Estudiantes L.P.,1,1,2.86,2.66,2.9

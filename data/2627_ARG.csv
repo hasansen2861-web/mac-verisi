@@ -1,0 +1,482 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,AvgH,AvgD,AvgA
+ARG,22/01/2026,20:00,Aldosivi,Defensa y Justicia,0,0,2.63,2.73,3.05
+ARG,22/01/2026,23:00,Banfield,Huracan,1,1,2.43,2.71,3.42
+ARG,22/01/2026,23:00,Union de Santa Fe,Platense,0,0,1.97,2.81,4.75
+ARG,23/01/2026,01:15,Central Cordoba,Gimnasia Mendoza,0,1,2.34,2.78,3.44
+ARG,23/01/2026,01:15,Instituto,Velez Sarsfield,0,1,2.72,2.73,2.91
+ARG,23/01/2026,22:00,San Lorenzo,Lanus,2,3,2.71,2.59,3.11
+ARG,23/01/2026,23:00,Independiente,Estudiantes L.P.,1,1,2.44,2.75,3.3
+ARG,24/01/2026,01:15,Ind. Rivadavia,Atl. Tucuman,2,1,1.74,3.25,5.16
+ARG,24/01/2026,01:15,Talleres Cordoba,Newells Old Boys,2,1,1.82,3.17,4.78
+ARG,24/01/2026,20:00,Barracas Central,River Plate,0,1,5.08,3.27,1.75
+ARG,24/01/2026,22:30,Gimnasia L.P.,Racing Club,2,1,3.62,3.02,2.14
+ARG,25/01/2026,01:00,Rosario Central,Belgrano,1,2,1.89,3.1,4.54
+ARG,25/01/2026,21:30,Boca Juniors,Dep. Riestra,1,0,1.6,3.35,6.65
+ARG,26/01/2026,00:00,Argentinos Jrs,Sarmiento Junin,1,0,1.38,4.1,9.31
+ARG,26/01/2026,00:00,Tigre,Estudiantes Rio Cuarto,2,0,1.94,2.95,4.58
+ARG,26/01/2026,20:00,Platense,Instituto,2,1,2.43,2.61,3.57
+ARG,27/01/2026,20:45,Velez Sarsfield,Talleres Cordoba,2,1,2.26,2.77,3.69
+ARG,27/01/2026,23:00,Gimnasia Mendoza,San Lorenzo,0,1,3.63,2.67,2.35
+ARG,27/01/2026,23:00,Huracan,Ind. Rivadavia,1,2,2.06,2.76,4.4
+ARG,28/01/2026,01:15,Atl. Tucuman,Central Cordoba,0,0,2.1,3.07,3.67
+ARG,28/01/2026,01:15,Newells Old Boys,Independiente,1,1,3.45,2.81,2.33
+ARG,28/01/2026,20:00,Aldosivi,Barracas Central,0,0,2.18,2.69,4.1
+ARG,28/01/2026,22:00,Racing Club,Rosario Central,1,2,2.12,3.02,3.71
+ARG,28/01/2026,23:00,River Plate,Gimnasia L.P.,2,0,1.53,3.7,6.54
+ARG,29/01/2026,01:15,Estudiantes L.P.,Boca Juniors,2,1,2.96,2.71,2.73
+ARG,29/01/2026,20:00,Dep. Riestra,Defensa y Justicia,0,1,2.1,2.82,4.11
+ARG,29/01/2026,22:15,Belgrano,Tigre,1,1,1.93,2.96,4.61
+ARG,29/01/2026,22:15,Lanus,Union de Santa Fe,2,1,2.05,2.88,4.17
+ARG,30/01/2026,00:30,Estudiantes Rio Cuarto,Argentinos Jrs,0,0,5.5,3.12,1.74
+ARG,30/01/2026,00:30,Sarmiento Junin,Banfield,1,0,3.46,2.78,2.35
+ARG,31/01/2026,20:30,San Lorenzo,Central Cordoba,1,0,1.78,3.01,5.7
+ARG,31/01/2026,22:45,Independiente,Velez Sarsfield,1,1,2.13,2.95,3.79
+ARG,01/02/2026,01:00,Atl. Tucuman,Huracan,1,1,2.59,2.76,3.09
+ARG,01/02/2026,01:00,Talleres Cordoba,Platense,1,2,1.94,2.93,4.72
+ARG,01/02/2026,20:00,Barracas Central,Dep. Riestra,1,1,3,2.55,2.87
+ARG,01/02/2026,22:15,Boca Juniors,Newells Old Boys,2,0,1.45,3.9,8.23
+ARG,02/02/2026,00:30,Rosario Central,River Plate,0,0,2.69,2.9,2.82
+ARG,02/02/2026,20:30,Gimnasia L.P.,Aldosivi,3,1,2.03,2.85,4.36
+ARG,02/02/2026,22:45,Defensa y Justicia,Estudiantes L.P.,0,0,3.38,2.85,2.35
+ARG,02/02/2026,22:45,Tigre,Racing Club,3,1,3.68,2.86,2.22
+ARG,03/02/2026,01:00,Argentinos Jrs,Belgrano,0,0,1.66,3.4,5.73
+ARG,03/02/2026,01:00,Union de Santa Fe,Gimnasia Mendoza,4,0,1.74,3.22,5.37
+ARG,03/02/2026,22:00,Banfield,Estudiantes Rio Cuarto,2,1,1.88,2.99,4.73
+ARG,04/02/2026,00:15,Ind. Rivadavia,Sarmiento Junin,2,1,1.74,3.22,5.36
+ARG,04/02/2026,00:15,Instituto,Lanus,2,2,2.84,2.84,2.69
+ARG,07/02/2026,00:00,Central Cordoba,Union de Santa Fe,1,0,3.44,2.79,2.34
+ARG,07/02/2026,20:00,Aldosivi,Rosario Central,1,1,4.27,2.9,2.02
+ARG,07/02/2026,21:00,Racing Club,Argentinos Jrs,2,1,2.76,2.89,2.73
+ARG,07/02/2026,23:00,River Plate,Tigre,1,4,1.6,3.54,6.08
+ARG,08/02/2026,01:15,Belgrano,Banfield,1,0,1.81,3.26,4.69
+ARG,08/02/2026,01:15,Newells Old Boys,Defensa y Justicia,2,3,2.16,2.89,3.76
+ARG,08/02/2026,20:00,Platense,Independiente,0,1,2.76,2.71,2.93
+ARG,08/02/2026,20:00,Sarmiento Junin,Atl. Tucuman,2,1,2.71,2.82,2.85
+ARG,08/02/2026,22:15,Huracan,San Lorenzo,1,0,2.49,2.58,3.5
+ARG,09/02/2026,01:15,Gimnasia Mendoza,Instituto,1,0,3.07,2.74,2.59
+ARG,09/02/2026,01:15,Velez Sarsfield,Boca Juniors,2,1,3.21,2.77,2.49
+ARG,09/02/2026,20:00,Barracas Central,Gimnasia L.P.,2,0,2.72,2.8,2.85
+ARG,09/02/2026,22:15,Estudiantes L.P.,Dep. Riestra,1,0,1.88,2.88,5.11
+ARG,09/02/2026,22:15,Lanus,Talleres Cordoba,1,1,1.99,3.01,4.17
+ARG,10/02/2026,00:30,Estudiantes Rio Cuarto,Ind. Rivadavia,0,1,3.73,2.76,2.24
+ARG,12/02/2026,22:00,Tigre,Aldosivi,1,0,1.72,3.13,5.79
+ARG,13/02/2026,00:15,Argentinos Jrs,River Plate,1,0,2.24,2.94,3.45
+ARG,13/02/2026,23:00,Independiente,Lanus,2,0,2.08,2.9,3.98
+ARG,14/02/2026,01:15,Defensa y Justicia,Velez Sarsfield,1,1,3.47,2.86,2.29
+ARG,14/02/2026,01:15,Union de Santa Fe,San Lorenzo,0,0,2.14,2.64,4.41
+ARG,14/02/2026,20:30,Banfield,Racing Club,0,2,4.2,3.2,1.9
+ARG,14/02/2026,22:45,Huracan,Sarmiento Junin,1,0,1.77,3.08,5.41
+ARG,14/02/2026,22:45,Talleres Cordoba,Gimnasia Mendoza,2,1,1.71,3.23,5.79
+ARG,15/02/2026,01:00,Atl. Tucuman,Estudiantes Rio Cuarto,4,0,1.87,3.13,4.59
+ARG,15/02/2026,01:00,Ind. Rivadavia,Belgrano,0,1,2.33,2.83,3.41
+ARG,15/02/2026,20:00,Gimnasia L.P.,Estudiantes L.P.,0,0,3.1,2.75,2.58
+ARG,15/02/2026,22:30,Boca Juniors,Platense,0,0,1.61,3.36,6.38
+ARG,16/02/2026,01:00,Instituto,Central Cordoba,2,0,1.87,3.06,4.69
+ARG,16/02/2026,01:00,Rosario Central,Barracas Central,2,0,1.53,3.52,7.32
+ARG,16/02/2026,22:00,Dep. Riestra,Newells Old Boys,1,1,2.28,2.69,3.75
+ARG,20/02/2026,20:15,Defensa y Justicia,Belgrano,1,1,2.99,2.86,2.56
+ARG,20/02/2026,20:45,Estudiantes L.P.,Sarmiento Junin,1,0,1.59,3.29,6.96
+ARG,20/02/2026,23:00,Boca Juniors,Racing Club,0,0,2.23,2.92,3.51
+ARG,20/02/2026,23:00,Instituto,Atl. Tucuman,2,1,1.98,3.11,4.02
+ARG,21/02/2026,01:15,Gimnasia Mendoza,Gimnasia L.P.,0,1,2.59,2.8,3
+ARG,21/02/2026,01:15,Rosario Central,Talleres Cordoba,0,1,1.82,3.2,4.72
+ARG,21/02/2026,20:00,Ind. Rivadavia,Independiente,3,2,2.58,2.8,3.03
+ARG,21/02/2026,20:00,Platense,Barracas Central,1,0,1.84,2.97,5.1
+ARG,21/02/2026,22:15,Banfield,Newells Old Boys,3,0,2.33,2.88,3.34
+ARG,21/02/2026,22:15,Dep. Riestra,Huracan,0,0,2.71,2.51,3.22
+ARG,22/02/2026,00:30,Central Cordoba,Tigre,0,0,3.38,2.69,2.45
+ARG,22/02/2026,20:00,San Lorenzo,Estudiantes Rio Cuarto,2,0,1.62,3.25,6.75
+ARG,22/02/2026,22:15,Velez Sarsfield,River Plate,1,0,2.83,2.89,2.65
+ARG,23/02/2026,00:30,Union de Santa Fe,Aldosivi,1,0,1.57,3.56,6.39
+ARG,24/02/2026,20:00,Platense,Defensa y Justicia,0,0,2.02,2.86,4.28
+ARG,24/02/2026,22:15,San Lorenzo,Instituto,1,1,2.47,2.72,3.28
+ARG,24/02/2026,22:45,Central Cordoba,Talleres Cordoba,2,0,3.53,2.73,2.32
+ARG,25/02/2026,00:30,Belgrano,Atl. Tucuman,3,1,1.74,3.33,4.93
+ARG,25/02/2026,01:00,Gimnasia Mendoza,Independiente,1,1,3.74,2.81,2.2
+ARG,25/02/2026,20:00,Barracas Central,Tigre,2,1,3.16,2.71,2.55
+ARG,25/02/2026,20:00,Gimnasia L.P.,Rosario Central,1,2,3.3,2.67,2.49
+ARG,25/02/2026,22:30,Newells Old Boys,Estudiantes L.P.,0,2,3.6,2.77,2.27
+ARG,25/02/2026,22:30,Velez Sarsfield,Dep. Riestra,0,0,1.92,2.8,5.06
+ARG,26/02/2026,20:15,Racing Club,Ind. Rivadavia,1,1,1.81,3.27,4.53
+ARG,26/02/2026,20:15,Sarmiento Junin,Union de Santa Fe,1,3,3.31,2.81,2.36
+ARG,26/02/2026,22:30,Estudiantes Rio Cuarto,Huracan,2,0,3.94,2.61,2.28
+ARG,26/02/2026,22:30,River Plate,Banfield,3,1,1.6,3.6,5.79
+ARG,28/02/2026,20:45,Boca Juniors,Gimnasia Mendoza,1,1,1.47,3.66,8.02
+ARG,28/02/2026,23:00,Independiente,Central Cordoba,2,0,1.6,3.29,6.72
+ARG,01/03/2026,01:15,Talleres Cordoba,San Lorenzo,0,0,2.13,2.75,4.07
+ARG,01/03/2026,20:00,Newells Old Boys,Rosario Central,0,2,4.7,3.18,1.82
+ARG,01/03/2026,22:15,Argentinos Jrs,Barracas Central,1,1,1.37,4.09,9.5
+ARG,01/03/2026,22:15,Instituto,Union de Santa Fe,1,2,2.53,2.83,3.03
+ARG,02/03/2026,00:30,Defensa y Justicia,Lanus,1,1,2.15,2.99,3.58
+ARG,02/03/2026,00:30,Tigre,Gimnasia L.P.,2,2,1.99,2.98,4.19
+ARG,02/03/2026,22:15,Dep. Riestra,Platense,0,0,2.6,2.51,3.39
+ARG,02/03/2026,22:15,Estudiantes L.P.,Velez Sarsfield,0,1,2.19,2.79,3.85
+ARG,03/03/2026,00:30,Banfield,Aldosivi,2,0,2.05,3,3.93
+ARG,03/03/2026,00:30,Ind. Rivadavia,River Plate,1,1,2.99,3.04,2.42
+ARG,03/03/2026,22:00,Sarmiento Junin,Estudiantes Rio Cuarto,1,0,1.87,3.03,4.65
+ARG,03/03/2026,22:15,Huracan,Belgrano,3,1,2.9,2.64,2.81
+ARG,04/03/2026,00:15,Atl. Tucuman,Racing Club,0,3,3.06,2.86,2.5
+ARG,05/03/2026,00:00,Lanus,Boca Juniors,0,3,2.91,2.85,2.63
+ARG,10/03/2026,22:45,Independiente,Union de Santa Fe,4,4,2.01,3.17,3.79
+ARG,10/03/2026,22:45,Tigre,Velez Sarsfield,1,1,2.26,2.78,3.57
+ARG,11/03/2026,01:00,Newells Old Boys,Platense,1,1,3.18,2.8,2.46
+ARG,11/03/2026,01:00,Sarmiento Junin,Racing Club,0,0,3.49,2.98,2.19
+ARG,11/03/2026,20:30,Argentinos Jrs,Rosario Central,0,0,1.98,2.96,4.24
+ARG,11/03/2026,20:30,Banfield,Gimnasia L.P.,1,2,2.26,2.96,3.36
+ARG,11/03/2026,22:45,Boca Juniors,San Lorenzo,1,1,1.71,3.16,5.78
+ARG,12/03/2026,01:00,Atl. Tucuman,Aldosivi,1,1,2.07,2.98,3.89
+ARG,12/03/2026,01:00,Ind. Rivadavia,Barracas Central,1,2,1.45,3.88,7.78
+ARG,12/03/2026,20:00,Defensa y Justicia,Central Cordoba,1,1,1.89,3.1,4.4
+ARG,12/03/2026,20:00,Dep. Riestra,Gimnasia Mendoza,0,0,2.04,2.67,4.68
+ARG,12/03/2026,22:15,Estudiantes Rio Cuarto,Belgrano,0,1,3.31,2.77,2.41
+ARG,12/03/2026,22:15,Talleres Cordoba,Instituto,2,0,2.19,2.85,3.69
+ARG,13/03/2026,00:30,Huracan,River Plate,1,2,3.22,2.8,2.39
+ARG,14/03/2026,22:00,Platense,Velez Sarsfield,0,2,2.81,2.7,2.81
+ARG,15/03/2026,00:00,Rosario Central,Banfield,2,1,1.59,3.55,5.94
+ARG,15/03/2026,18:15,Gimnasia L.P.,Ind. Rivadavia,2,3,2.83,2.98,2.54
+ARG,15/03/2026,20:30,Belgrano,Talleres Cordoba,0,0,2.34,2.8,3.38
+ARG,15/03/2026,22:45,River Plate,Sarmiento Junin,2,0,1.44,3.82,8.14
+ARG,16/03/2026,01:00,Tigre,Argentinos Jrs,1,1,2.75,2.7,2.9
+ARG,16/03/2026,01:00,Union de Santa Fe,Boca Juniors,1,1,2.84,2.68,2.81
+ARG,16/03/2026,18:30,Aldosivi,Huracan,0,0,3.16,2.65,2.59
+ARG,16/03/2026,18:30,Barracas Central,Atl. Tucuman,2,1,2.77,2.83,2.74
+ARG,16/03/2026,21:30,San Lorenzo,Defensa y Justicia,2,5,2.16,2.78,3.87
+ARG,16/03/2026,23:00,Racing Club,Estudiantes Rio Cuarto,2,0,1.39,4.06,8.75
+ARG,17/03/2026,01:15,Instituto,Independiente,2,1,2.68,2.91,2.75
+ARG,17/03/2026,22:00,Lanus,Newells Old Boys,5,0,1.64,3.42,5.64
+ARG,18/03/2026,00:15,Central Cordoba,Dep. Riestra,1,0,3.03,2.53,2.82
+ARG,18/03/2026,00:15,Gimnasia Mendoza,Estudiantes L.P.,1,2,3.92,2.82,2.12
+ARG,21/03/2026,00:00,Atl. Tucuman,Gimnasia L.P.,1,0,2.01,3.13,3.8
+ARG,21/03/2026,00:00,Banfield,Tigre,1,0,2.97,2.71,2.68
+ARG,21/03/2026,18:30,Velez Sarsfield,Lanus,0,1,2.21,2.93,3.5
+ARG,21/03/2026,20:45,Defensa y Justicia,Union de Santa Fe,2,0,2.85,2.92,2.58
+ARG,21/03/2026,20:45,Newells Old Boys,Gimnasia Mendoza,1,0,2.43,2.75,3.27
+ARG,21/03/2026,23:00,Independiente,Talleres Cordoba,1,2,1.91,3.1,4.25
+ARG,22/03/2026,01:15,Belgrano,Racing Club,1,2,2.81,2.95,2.6
+ARG,22/03/2026,18:30,Sarmiento Junin,Aldosivi,2,0,2.34,2.73,3.48
+ARG,22/03/2026,20:45,Estudiantes Rio Cuarto,River Plate,0,2,7.73,3.56,1.5
+ARG,22/03/2026,23:00,Boca Juniors,Instituto,2,0,1.6,3.42,6.13
+ARG,23/03/2026,01:15,Argentinos Jrs,Platense,1,0,1.76,3.08,5.37
+ARG,23/03/2026,01:15,Ind. Rivadavia,Rosario Central,2,0,2.64,2.85,2.86
+ARG,23/03/2026,22:00,Estudiantes L.P.,Central Cordoba,5,0,1.48,3.6,7.71
+ARG,24/03/2026,00:15,Huracan,Barracas Central,0,0,1.84,2.97,5.02
+ARG,25/03/2026,22:00,Dep. Riestra,San Lorenzo,1,1,2.41,2.65,3.51
+ARG,27/03/2026,00:00,Argentinos Jrs,Lanus,2,1,2.02,2.88,4.21
+ARG,31/03/2026,18:00,Aldosivi,Argentinos Jrs,0,2,4.8,3.1,1.82
+ARG,02/04/2026,00:00,Lanus,Platense,0,0,2.11,2.87,3.86
+ARG,02/04/2026,19:00,Barracas Central,Sarmiento Junin,1,2,2.36,2.74,3.42
+ARG,02/04/2026,21:30,Tigre,Ind. Rivadavia,0,2,2.15,2.99,3.58
+ARG,03/04/2026,00:30,Talleres Cordoba,Boca Juniors,0,1,2.43,2.86,3.11
+ARG,03/04/2026,19:00,Gimnasia Mendoza,Velez Sarsfield,3,2,3.91,2.87,2.1
+ARG,03/04/2026,21:15,Union de Santa Fe,Dep. Riestra,2,0,1.83,3.07,4.79
+ARG,03/04/2026,23:30,San Lorenzo,Estudiantes L.P.,1,0,3.32,2.73,2.41
+ARG,04/04/2026,17:30,Aldosivi,Estudiantes Rio Cuarto,0,0,2.19,2.72,3.92
+ARG,04/04/2026,21:30,Independiente,Racing Club,1,0,2.38,2.88,3.17
+ARG,05/04/2026,01:00,Rosario Central,Atl. Tucuman,2,1,1.67,3.39,5.32
+ARG,05/04/2026,19:30,Gimnasia L.P.,Huracan,0,3,2.79,2.73,2.82
+ARG,05/04/2026,22:00,River Plate,Belgrano,3,0,1.69,3.39,5.2
+ARG,06/04/2026,00:30,Central Cordoba,Newells Old Boys,1,3,2.34,2.82,3.35
+ARG,06/04/2026,23:00,Argentinos Jrs,Banfield,3,2,1.61,3.55,5.77
+ARG,07/04/2026,01:15,Instituto,Defensa y Justicia,2,0,1.95,3.1,4.08
+ARG,11/04/2026,01:00,Belgrano,Aldosivi,1,0,1.46,3.72,8.04
+ARG,11/04/2026,19:00,Dep. Riestra,Instituto,0,1,2.72,2.66,2.95
+ARG,11/04/2026,19:30,Ind. Rivadavia,Argentinos Jrs,3,1,2.88,2.82,2.64
+ARG,11/04/2026,21:15,Estudiantes L.P.,Union de Santa Fe,2,1,2.44,2.75,3.25
+ARG,11/04/2026,23:30,Boca Juniors,Independiente,1,1,2.35,2.85,3.28
+ARG,12/04/2026,01:45,Estudiantes Rio Cuarto,Barracas Central,1,2,2.28,2.71,3.65
+ARG,12/04/2026,19:00,Newells Old Boys,San Lorenzo,0,0,2.47,2.85,3.11
+ARG,12/04/2026,19:00,Platense,Gimnasia Mendoza,1,1,2.3,2.76,3.58
+ARG,12/04/2026,21:30,Atl. Tucuman,Tigre,0,0,2.37,2.89,3.24
+ARG,12/04/2026,21:30,Huracan,Rosario Central,3,1,2.33,2.78,3.42
+ARG,13/04/2026,00:00,Racing Club,River Plate,0,2,2.54,2.93,2.91
+ARG,13/04/2026,20:30,Defensa y Justicia,Talleres Cordoba,1,2,2.91,2.73,2.7
+ARG,13/04/2026,20:30,Sarmiento Junin,Gimnasia L.P.,1,2,2.63,2.76,2.95
+ARG,13/04/2026,23:00,Lanus,Banfield,1,0,1.86,3.08,4.63
+ARG,14/04/2026,01:30,Velez Sarsfield,Central Cordoba,1,0,1.35,4.29,9.73
+ARG,18/04/2026,00:30,Union de Santa Fe,Newells Old Boys,2,3,1.59,3.59,5.84
+ARG,18/04/2026,19:00,Gimnasia L.P.,Estudiantes Rio Cuarto,1,0,1.79,3.14,4.92
+ARG,18/04/2026,21:15,Instituto,Estudiantes L.P.,0,1,2.5,2.91,2.98
+ARG,18/04/2026,23:30,Independiente,Defensa y Justicia,3,1,1.75,3.23,5.06
+ARG,19/04/2026,01:45,Argentinos Jrs,Atl. Tucuman,1,0,1.59,3.59,5.78
+ARG,19/04/2026,17:30,Aldosivi,Racing Club,1,1,4.6,3.01,1.89
+ARG,19/04/2026,21:00,River Plate,Boca Juniors,0,1,2.22,2.93,3.51
+ARG,20/04/2026,00:30,Rosario Central,Sarmiento Junin,2,1,1.43,4.02,7.49
+ARG,20/04/2026,00:30,Talleres Cordoba,Dep. Riestra,2,0,1.65,3.23,6.18
+ARG,20/04/2026,19:00,Barracas Central,Belgrano,0,0,3.6,2.83,2.24
+ARG,20/04/2026,21:15,Banfield,Ind. Rivadavia,0,0,2.51,2.92,2.97
+ARG,20/04/2026,21:15,Central Cordoba,Platense,4,3,3.55,2.76,2.29
+ARG,20/04/2026,23:30,San Lorenzo,Velez Sarsfield,0,0,3.01,2.81,2.56
+ARG,21/04/2026,01:45,Gimnasia Mendoza,Lanus,1,0,3.13,2.68,2.6
+ARG,21/04/2026,01:45,Tigre,Huracan,1,1,2.52,2.67,3.26
+ARG,24/04/2026,00:00,Defensa y Justicia,Boca Juniors,0,4,3.03,2.85,2.49
+ARG,24/04/2026,21:00,Dep. Riestra,Independiente,2,0,3.69,2.81,2.2
+ARG,24/04/2026,23:15,Estudiantes Rio Cuarto,Rosario Central,1,2,4.08,3.02,1.98
+ARG,24/04/2026,23:15,Lanus,Central Cordoba,0,0,1.4,4.07,8
+ARG,25/04/2026,01:30,Platense,San Lorenzo,0,1,2.37,2.74,3.38
+ARG,25/04/2026,01:30,Racing Club,Barracas Central,1,1,1.42,4.01,7.78
+ARG,25/04/2026,21:00,Estudiantes L.P.,Talleres Cordoba,0,0,2.15,2.94,3.65
+ARG,25/04/2026,23:15,Sarmiento Junin,Tigre,1,0,3.49,2.8,2.28
+ARG,26/04/2026,01:30,River Plate,Aldosivi,3,1,1.24,4.82,14.44
+ARG,26/04/2026,19:00,Ind. Rivadavia,Gimnasia Mendoza,5,1,1.84,3.03,4.86
+ARG,26/04/2026,21:30,Belgrano,Gimnasia L.P.,0,1,2.04,2.95,4
+ARG,26/04/2026,21:30,Newells Old Boys,Instituto,1,1,2.98,2.92,2.45
+ARG,27/04/2026,00:00,Atl. Tucuman,Banfield,1,1,2.17,2.95,3.51
+ARG,27/04/2026,22:45,Velez Sarsfield,Union de Santa Fe,2,2,2.16,3.04,3.45
+ARG,28/04/2026,01:00,Huracan,Argentinos Jrs,1,2,2.84,2.65,2.84
+ARG,02/05/2026,18:00,Barracas Central,Banfield,1,2,2.54,2.8,3.01
+ARG,02/05/2026,18:30,Lanus,Dep. Riestra,0,0,2.31,2.69,3.61
+ARG,02/05/2026,20:15,Central Cordoba,Boca Juniors,1,2,4.97,3.17,1.76
+ARG,02/05/2026,22:45,San Lorenzo,Independiente,1,2,3.09,2.61,2.68
+ARG,02/05/2026,22:45,Union de Santa Fe,Talleres Cordoba,1,1,2.02,3.11,3.78
+ARG,03/05/2026,01:15,Platense,Estudiantes L.P.,0,2,2.82,2.72,2.76
+ARG,03/05/2026,17:30,Aldosivi,Ind. Rivadavia,1,1,2.52,2.92,2.92
+ARG,03/05/2026,20:00,Belgrano,Sarmiento Junin,4,0,1.83,3.09,4.74
+ARG,03/05/2026,20:00,Gimnasia L.P.,Argentinos Jrs,2,0,3.38,2.98,2.22
+ARG,03/05/2026,20:00,Racing Club,Huracan,0,0,1.94,2.97,4.39
+ARG,03/05/2026,20:00,Rosario Central,Tigre,1,1,2.97,2.79,2.58
+ARG,03/05/2026,22:30,River Plate,Atl. Tucuman,0,1,1.52,3.81,6.16
+ARG,04/05/2026,21:00,Gimnasia Mendoza,Defensa y Justicia,2,1,2.25,2.93,3.38
+ARG,04/05/2026,23:15,Velez Sarsfield,Newells Old Boys,1,1,1.82,3.31,4.34
+ARG,05/05/2026,01:30,Estudiantes Rio Cuarto,Instituto,0,2,3.43,2.89,2.25
+ARG,09/05/2026,20:30,Talleres Cordoba,Belgrano,0,1,2.41,2.76,3.28
+ARG,09/05/2026,23:00,Boca Juniors,Huracan,1,1,1.75,3.09,5.4
+ARG,10/05/2026,01:30,Ind. Rivadavia,Union de Santa Fe,1,2,2.12,3.08,3.5
+ARG,10/05/2026,02:15,Argentinos Jrs,Lanus,2,0,2.01,2.99,4.02
+ARG,10/05/2026,19:00,Rosario Central,Independiente,3,1,2,3.04,3.94
+ARG,10/05/2026,21:00,Estudiantes L.P.,Racing Club,0,1,2.33,2.87,3.28
+ARG,10/05/2026,23:00,River Plate,San Lorenzo,1,1,1.52,3.52,7.18
+ARG,11/05/2026,01:30,Velez Sarsfield,Gimnasia L.P.,0,1,1.97,3.04,4.08
+ARG,12/05/2026,23:00,Belgrano,Union de Santa Fe,2,0,2.47,2.89,3.01
+ARG,13/05/2026,01:30,Argentinos Jrs,Huracan,0,0,1.84,2.95,5.01
+ARG,13/05/2026,22:45,Rosario Central,Racing Club,1,1,2.22,2.94,3.43
+ARG,14/05/2026,01:45,River Plate,Gimnasia L.P.,2,0,1.53,3.65,6.56
+ARG,16/05/2026,23:30,River Plate,Rosario Central,1,0,2.1,2.9,3.81
+ARG,17/05/2026,21:00,Argentinos Jrs,Belgrano,1,1,1.94,2.86,4.56
+ARG,24/05/2026,19:30,River Plate,Belgrano,2,3,2.15,2.79,3.9
+ARG,23/07/2026,23:30,Belgrano,Rosario Central,2,1,2.52,2.82,3.02
+ARG,23/07/2026,23:30,Sarmiento Junin,Argentinos Jrs,2,3,4.16,2.88,2.02
+ARG,24/07/2026,01:45,Defensa y Justicia,Aldosivi,1,1,1.87,3.1,4.44
+ARG,24/07/2026,20:45,Gimnasia Mendoza,Central Cordoba,1,0,1.9,3.08,4.39
+ARG,24/07/2026,23:00,Racing Club,Gimnasia L.P.,2,1,1.78,3.22,4.8
+ARG,24/07/2026,23:00,Velez Sarsfield,Instituto,1,0,2.08,2.92,3.83
+ARG,25/07/2026,01:15,Huracan,Banfield,1,0,1.97,2.91,4.35
+ARG,25/07/2026,01:15,Platense,Union de Santa Fe,2,2,2.41,2.81,3.21
+ARG,25/07/2026,18:45,Estudiantes Rio Cuarto,Tigre,1,0,3.5,2.73,2.31
+ARG,25/07/2026,21:00,Newells Old Boys,Talleres Cordoba,1,0,2.49,4.02,18.35
+ARG,25/07/2026,23:15,River Plate,Barracas Central,0,1,1.31,4.34,11.23
+ARG,26/07/2026,01:30,Lanus,San Lorenzo,1,0,1.98,2.82,4.44
+ARG,26/07/2026,19:00,Atl. Tucuman,Ind. Rivadavia,0,0,2.75,3.02,2.58
+ARG,26/07/2026,21:15,Estudiantes L.P.,Independiente,0,2,2.11,2.93,3.75
+ARG,26/07/2026,23:30,Dep. Riestra,Boca Juniors,3,0,4.24,2.77,2.05
+ARG,28/07/2026,23:00,Banfield,Sarmiento Junin,3,2,2.14,2.92,3.67
+ARG,28/07/2026,23:00,San Lorenzo,Gimnasia Mendoza,1,0,1.92,3.06,4.2
+ARG,29/07/2026,01:15,Argentinos Jrs,Estudiantes Rio Cuarto,3,0,1.35,4.27,9.43
+ARG,29/07/2026,01:15,Rosario Central,Racing Club,0,0,2.01,3.04,3.88
+ARG,29/07/2026,18:30,Barracas Central,Aldosivi,1,0,2.31,2.69,3.58
+ARG,29/07/2026,21:00,Defensa y Justicia,Dep. Riestra,2,1,2.48,2.71,3.18
+ARG,29/07/2026,23:15,Gimnasia L.P.,River Plate,1,0,4.31,3.02,1.92
+ARG,30/07/2026,01:30,Instituto,Platense,2,1,1.99,2.92,4.21
+ARG,30/07/2026,23:00,Ind. Rivadavia,Huracan,2,1,2.01,2.91,4.19
+ARG,30/07/2026,23:00,Talleres Cordoba,Velez Sarsfield,1,3,2.28,2.85,3.4
+ARG,31/07/2026,01:15,Central Cordoba,Atl. Tucuman,0,2,3.2,2.98,2.3
+ARG,31/07/2026,01:15,Independiente,Newells Old Boys,1,0,1.53,3.71,6.26
+ARG,01/08/2026,19:30,Estudiantes Rio Cuarto,Banfield,0,0,2.72,2.84,2.72
+ARG,01/08/2026,19:30,Gimnasia Mendoza,Union de Santa Fe,2,0,2.78,3.04,2.53
+ARG,01/08/2026,22:00,Belgrano,Argentinos Jrs,0,1,2.3,2.85,3.32
+ARG,01/08/2026,22:00,Estudiantes L.P.,Defensa y Justicia,3,0,1.56,3.54,6.12
+ARG,02/08/2026,00:30,Racing Club,Tigre,1,3,2.13,2.89,3.69
+ARG,02/08/2026,18:30,Aldosivi,Gimnasia L.P.,1,2,3.1,2.69,2.56
+ARG,02/08/2026,18:30,Dep. Riestra,Barracas Central,0,1,2.16,2.64,4.1
+ARG,02/08/2026,21:00,Newells Old Boys,Boca Juniors,2,2,4.55,3.17,1.81
+ARG,02/08/2026,23:15,River Plate,Rosario Central,0,1,1.91,3.02,4.32
+ARG,03/08/2026,01:30,Lanus,Instituto,0,1,2.15,2.87,3.7
+ARG,03/08/2026,20:45,Sarmiento Junin,Ind. Rivadavia,2,1,2.8,2.94,2.57
+ARG,03/08/2026,23:00,Platense,Talleres Cordoba,0,4,2.57,2.75,3.01
+ARG,03/08/2026,23:00,Velez Sarsfield,Independiente,1,0,2.43,2.95,2.97
+ARG,04/08/2026,01:15,Central Cordoba,San Lorenzo,1,0,3.07,2.88,2.45
+ARG,04/08/2026,01:15,Huracan,Atl. Tucuman,0,0,2,2.87,4.19
+ARG,05/08/2026,23:00,Boca Juniors,Estudiantes L.P.,1,0,1.79,3.19,4.77
+ARG,06/08/2026,01:15,Tigre,Belgrano,0,0,2.41,2.64,3.46
+ARG,06/08/2026,23:00,Union de Santa Fe,Lanus,2,1,2.54,2.79,3.02
+ARG,07/08/2026,23:30,Rosario Central,Aldosivi,2,1,1.53,3.62,6.64
+ARG,08/08/2026,01:45,Ind. Rivadavia,Estudiantes Rio Cuarto,2,1,1.44,3.89,7.82
+ARG,08/08/2026,18:45,Atl. Tucuman,Sarmiento Junin,1,2,1.82,3.16,4.73
+ARG,08/08/2026,18:45,Dep. Riestra,Estudiantes L.P.,2,0,2.48,2.73,3.22
+ARG,08/08/2026,21:00,Tigre,River Plate,1,0,3.35,2.78,2.37
+ARG,08/08/2026,23:15,Boca Juniors,Velez Sarsfield,1,1,1.6,3.46,6.03
+ARG,09/08/2026,01:30,Independiente,Platense,0,1,1.8,3.13,4.95
+ARG,09/08/2026,01:30,Instituto,Gimnasia Mendoza,1,0,1.54,3.67,6.36
+ARG,09/08/2026,19:00,San Lorenzo,Huracan,0,2,2.7,2.74,2.91
+ARG,09/08/2026,21:45,Defensa y Justicia,Newells Old Boys,2,1,1.92,3.12,4.27
+ARG,09/08/2026,21:45,Gimnasia L.P.,Barracas Central,2,0,1.84,3.07,4.72
+ARG,10/08/2026,00:15,Argentinos Jrs,Racing Club,2,1,1.98,3.02,4.09
+ARG,10/08/2026,23:00,Banfield,Belgrano,0,2,2.93,2.92,2.52
+ARG,11/08/2026,01:15,Union de Santa Fe,Central Cordoba,1,2,1.63,3.48,5.61
+ARG,12/08/2026,01:00,Talleres Cordoba,Lanus,0,3,2.33,2.77,3.44
+ARG,15/08/2026,00:30,Racing Club,Banfield,0,1,1.59,3.64,5.79
+ARG,15/08/2026,18:30,Aldosivi,Tigre,0,0,3.17,2.73,2.52
+ARG,15/08/2026,18:30,San Lorenzo,Union de Santa Fe,1,0,2.78,2.97,2.64
+ARG,15/08/2026,20:45,Estudiantes L.P.,Gimnasia L.P.,4,0,1.98,2.95,4.26
+ARG,15/08/2026,23:00,Belgrano,Ind. Rivadavia,2,0,1.79,3.23,4.8
+ARG,15/08/2026,23:00,Newells Old Boys,Dep. Riestra,2,0,2.77,2.71,2.87
+ARG,16/08/2026,01:15,Platense,Boca Juniors,1,1,5.01,3.2,1.77
+ARG,16/08/2026,19:00,Sarmiento Junin,Huracan,2,0,3.06,2.82,2.52
+ARG,16/08/2026,22:00,River Plate,Argentinos Jrs,2,0,1.88,3.18,4.34
+ARG,17/08/2026,00:15,Barracas Central,Rosario Central,0,1,2.62,2.71,3.07
+ARG,17/08/2026,00:15,Central Cordoba,Instituto,0,1,4.01,3.01,2.02
+ARG,17/08/2026,18:45,Estudiantes Rio Cuarto,Atl. Tucuman,0,1,3.58,2.82,2.26
+ARG,17/08/2026,21:00,Lanus,Independiente,1,3,2.01,2.98,4.07
+ARG,17/08/2026,23:15,Velez Sarsfield,Defensa y Justicia,1,1,1.98,3.21,3.81
+ARG,18/08/2026,01:30,Gimnasia Mendoza,Talleres Cordoba,3,1,2.94,2.88,2.53
+ARG,21/08/2026,18:30,Aldosivi,Union de Santa Fe,1,3,2.68,2.93,2.75
+ARG,22/08/2026,00:00,Estudiantes Rio Cuarto,San Lorenzo,0,0,3.57,2.63,2.4
+ARG,22/08/2026,20:00,Atl. Tucuman,Instituto,0,0,2.8,2.87,2.68
+ARG,22/08/2026,20:00,Gimnasia L.P.,Gimnasia Mendoza,2,3,1.79,3.25,4.63
+ARG,22/08/2026,22:30,Independiente,Ind. Rivadavia,0,0,2.37,2.89,3.22
+ARG,23/08/2026,01:00,Huracan,Dep. Riestra,0,0,2.31,2.5,3.98
+ARG,23/08/2026,01:00,Newells Old Boys,Banfield,2,1,2.07,3.02,3.77
+ARG,23/08/2026,18:45,Barracas Central,Platense,1,2,2.46,2.72,3.25
+ARG,23/08/2026,18:45,Sarmiento Junin,Estudiantes L.P.,2,0,2.99,2.91,2.49
+ARG,23/08/2026,21:00,Belgrano,Defensa y Justicia,1,2,1.81,3.3,4.48
+ARG,23/08/2026,23:15,River Plate,Velez Sarsfield,2,2,1.62,3.39,5.97
+ARG,24/08/2026,01:30,Racing Club,Boca Juniors,1,1,3.07,2.88,2.46
+ARG,24/08/2026,23:00,Tigre,Central Cordoba,2,1,1.63,3.35,6.19
+ARG,25/08/2026,01:15,Lanus,Argentinos Jrs,1,1,2.48,2.88,3.02
+ARG,25/08/2026,01:15,Talleres Cordoba,Rosario Central,2,2,2.95,2.91,2.52
+ARG,28/08/2026,23:00,Union de Santa Fe,Sarmiento Junin,4,1,1.92,3.14,4.17
+ARG,29/08/2026,01:30,Boca Juniors,Lanus,1,0,1.88,3.17,4.29
+ARG,29/08/2026,18:45,Dep. Riestra,Velez Sarsfield,1,1,2.52,2.72,3.16
+ARG,29/08/2026,21:00,Rosario Central,Gimnasia L.P.,1,2,1.57,3.7,5.77
+ARG,29/08/2026,23:00,Huracan,Estudiantes Rio Cuarto,1,1,1.66,3.09,6.52
+ARG,30/08/2026,01:30,Atl. Tucuman,Belgrano,0,0,2.51,2.81,3.08
+ARG,30/08/2026,01:30,Talleres Cordoba,Central Cordoba,0,0,1.79,3.26,4.86
+ARG,30/08/2026,19:00,Banfield,River Plate,2,3,7.07,3.87,1.46
+ARG,30/08/2026,21:00,Argentinos Jrs,Aldosivi,2,1,1.33,4.36,10.06
+ARG,30/08/2026,23:15,Independiente,Gimnasia Mendoza,0,3,1.77,3.29,4.77
+ARG,31/08/2026,01:30,Ind. Rivadavia,Racing Club,3,1,1.95,3.12,4.05
+ARG,31/08/2026,23:00,Defensa y Justicia,Platense,1,0,2.49,2.86,3.04
+ARG,31/08/2026,23:00,Estudiantes L.P.,Newells Old Boys,0,0,1.6,3.45,6.14
+ARG,01/09/2026,01:15,Instituto,San Lorenzo,1,0,1.88,2.99,4.59
+ARG,01/09/2026,01:15,Tigre,Barracas Central,0,0,1.81,2.98,5.08
+ARG,04/09/2026,20:45,Estudiantes Rio Cuarto,Sarmiento Junin,0,2,3.39,2.77,2.35
+ARG,04/09/2026,23:00,Belgrano,Huracan,1,1,2.01,2.9,4.23
+ARG,04/09/2026,23:00,Platense,Dep. Riestra,1,1,2.72,2.7,2.94
+ARG,05/09/2026,17:30,Aldosivi,Banfield,3,1,2.65,2.94,2.76
+ARG,05/09/2026,18:30,Gimnasia L.P.,Tigre,2,1,2.37,2.84,3.26
+ARG,05/09/2026,20:30,Gimnasia Mendoza,Boca Juniors,2,2,3.08,2.9,2.42
+ARG,05/09/2026,23:00,San Lorenzo,Talleres Cordoba,1,0,2.31,2.95,3.24
+ARG,06/09/2026,01:15,Velez Sarsfield,Estudiantes L.P.,1,0,2.66,2.69,2.99
+ARG,06/09/2026,18:45,Rosario Central,Newells Old Boys,1,1,1.56,3.6,6.17
+ARG,06/09/2026,21:00,Central Cordoba,Independiente,0,1,3.13,3,2.37
+ARG,06/09/2026,21:00,Lanus,Defensa y Justicia,1,0,1.84,3.19,4.48
+ARG,06/09/2026,23:15,River Plate,Ind. Rivadavia,3,1,1.67,3.42,5.35
+ARG,07/09/2026,01:30,Racing Club,Atl. Tucuman,1,2,1.99,3.04,4.05
+ARG,07/09/2026,23:00,Barracas Central,Argentinos Jrs,0,0,3.95,2.87,2.08
+ARG,08/09/2026,01:15,Union de Santa Fe,Instituto,3,2,2.86,2.88,2.61
+ARG,11/09/2026,21:00,Newells Old Boys,Velez Sarsfield,1,1,2.64,2.89,2.82
+ARG,11/09/2026,23:15,Defensa y Justicia,Gimnasia Mendoza,2,0,1.97,3.33,3.67
+ARG,12/09/2026,01:30,Boca Juniors,Central Cordoba,3,1,1.55,3.79,6.16
+ARG,12/09/2026,18:45,Estudiantes L.P.,Platense,2,1,1.97,2.96,4.25
+ARG,12/09/2026,18:45,Ind. Rivadavia,Aldosivi,4,3,1.4,4.19,7.73
+ARG,12/09/2026,21:30,Atl. Tucuman,River Plate,1,2,3.92,3.01,2.03
+ARG,13/09/2026,00:00,Talleres Cordoba,Union de Santa Fe,2,1,2.13,2.95,3.68
+ARG,13/09/2026,18:45,Sarmiento Junin,Belgrano,1,1,3.18,2.91,2.35
+ARG,13/09/2026,18:45,Tigre,Rosario Central,0,1,3.28,2.75,2.44
+ARG,13/09/2026,21:00,Argentinos Jrs,Gimnasia L.P.,1,1,1.73,3.38,4.9
+ARG,13/09/2026,23:15,Independiente,San Lorenzo,1,1,2.05,2.94,3.99
+ARG,14/09/2026,01:30,Huracan,Racing Club,2,1,2.53,2.8,3.06
+ARG,14/09/2026,23:00,Banfield,Barracas Central,1,1,2.5,2.79,3.12
+ARG,14/09/2026,23:00,Dep. Riestra,Lanus,0,3,3.03,2.61,2.71
+ARG,15/09/2026,01:15,Instituto,Estudiantes Rio Cuarto,2,1,1.43,3.74,9.15
+ARG,18/09/2026,22:00,Central Cordoba,Defensa y Justicia,2,2,2.78,3.07,2.59
+ARG,19/09/2026,01:15,Racing Club,Sarmiento Junin,3,1,1.81,3.38,4.33
+ARG,19/09/2026,18:30,Gimnasia L.P.,Banfield,2,2,1.63,3.63,5.28
+ARG,19/09/2026,18:30,Gimnasia Mendoza,Dep. Riestra,0,0,2.36,2.82,3.32
+ARG,19/09/2026,20:45,Union de Santa Fe,Independiente,1,2,2.31,3.02,3.18
+ARG,19/09/2026,23:00,River Plate,Huracan,1,2,1.49,3.7,7.17
+ARG,20/09/2026,01:15,Instituto,Talleres Cordoba,3,1,2.04,3.01,3.93
+ARG,20/09/2026,18:45,San Lorenzo,Boca Juniors,0,2,4.84,3,1.85
+ARG,20/09/2026,21:00,Platense,Newells Old Boys,0,1,2.36,2.84,3.28
+ARG,20/09/2026,21:00,Rosario Central,Argentinos Jrs,1,0,1.98,3.15,3.9
+ARG,20/09/2026,23:15,Belgrano,Estudiantes Rio Cuarto,2,1,1.42,3.83,8.78
+ARG,21/09/2026,01:30,Velez Sarsfield,Tigre,3,2,2.17,2.89,3.65
+ARG,21/09/2026,18:30,Aldosivi,Atl. Tucuman,1,0,3.21,2.89,2.36
+ARG,21/09/2026,23:00,Barracas Central,Ind. Rivadavia,0,1,3.38,2.89,2.27
+ARG,22/09/2026,01:15,Lanus,Estudiantes L.P.,2,1,2.19,2.87,3.65
+ARG,02/10/2026,23:15,Independiente,Instituto,1,4,2.6,2.87,2.9
+ARG,03/10/2026,01:30,Boca Juniors,Union de Santa Fe,3,0,1.4,4.36,7.59
+ARG,03/10/2026,01:30,Ind. Rivadavia,Gimnasia L.P.,1,1,2.09,3.13,3.58
+ARG,03/10/2026,18:45,Defensa y Justicia,San Lorenzo,3,0,1.98,3.08,4.04
+ARG,03/10/2026,21:00,Atl. Tucuman,Barracas Central,2,3,1.9,2.89,4.83
+ARG,03/10/2026,21:00,Newells Old Boys,Lanus,0,0,2.56,2.92,2.91
+ARG,04/10/2026,18:45,Huracan,Aldosivi,1,0,1.76,3.23,5.03
+ARG,04/10/2026,21:00,Talleres Cordoba,Belgrano,0,1,2.58,3,2.8
+ARG,04/10/2026,23:15,Argentinos Jrs,Tigre,2,1,1.94,3.01,4.35
+ARG,05/10/2026,01:30,Estudiantes Rio Cuarto,Racing Club,1,2,3.77,3.05,2.06
+ARG,05/10/2026,20:45,Dep. Riestra,Central Cordoba,1,1,1.95,3.03,4.37
+ARG,05/10/2026,23:00,Estudiantes L.P.,Gimnasia Mendoza,3,0,1.68,3.46,5.2
+ARG,05/10/2026,23:00,Velez Sarsfield,Platense,2,2,1.89,3.11,4.45
+ARG,06/10/2026,01:15,Banfield,Rosario Central,1,1,4.13,3.25,1.9
+ARG,09/10/2026,18:30,Aldosivi,Sarmiento Junin,1,3,2.45,2.96,3.01
+ARG,09/10/2026,22:00,Gimnasia L.P.,Atl. Tucuman,1,1,1.94,3.27,3.93
+ARG,09/10/2026,23:30,Instituto,Boca Juniors,2,2,3.13,3.01,2.34
+ARG,10/10/2026,01:45,Union de Santa Fe,Defensa y Justicia,0,2,2.33,3.13,3.03
+ARG,10/10/2026,19:45,Barracas Central,Huracan,2,0,3.27,2.73,2.46
+ARG,10/10/2026,21:00,Central Cordoba,Estudiantes L.P.,2,2,2.86,2.97,2.59
+ARG,10/10/2026,23:15,Tigre,Banfield,1,2,1.78,3.29,4.77
+ARG,11/10/2026,01:30,River Plate,Estudiantes Rio Cuarto,1,0,1.18,5.89,15.97
+ARG,11/10/2026,18:45,San Lorenzo,Dep. Riestra,1,0,2.65,2.73,2.99
+ARG,11/10/2026,21:00,Platense,Argentinos Jrs,1,1,2.74,2.77,2.84
+ARG,11/10/2026,21:00,Rosario Central,Ind. Rivadavia,5,0,1.96,3.2,3.91
+ARG,11/10/2026,23:15,Racing Club,Belgrano,0,2,2.29,3.04,3.18
+ARG,12/10/2026,01:30,Talleres Cordoba,Independiente,0,0,2.21,3.06,3.34
+ARG,12/10/2026,20:00,Lanus,Velez Sarsfield,2,0,1.89,3.21,4.24
+ARG,12/10/2026,22:30,Gimnasia Mendoza,Newells Old Boys,1,0,2.39,3.05,3.04
+ARG,14/10/2026,23:00,Sarmiento Junin,River Plate,1,1,6.51,3.87,1.5
+ARG,16/10/2026,00:00,Huracan,Gimnasia L.P.,1,2,2.1,3.06,3.55
+ARG,16/10/2026,23:00,Defensa y Justicia,Instituto,0,1,2.49,3.03,2.86
+ARG,17/10/2026,01:30,Boca Juniors,Talleres Cordoba,2,1,1.42,4.06,7.53
+ARG,17/10/2026,19:00,Banfield,Argentinos Jrs,0,1,3.31,3.2,2.14
+ARG,17/10/2026,21:30,Ind. Rivadavia,Tigre,2,2,1.98,3.12,3.94
+ARG,17/10/2026,21:30,Platense,Lanus,0,1,2.79,2.84,2.7
+ARG,18/10/2026,00:00,Atl. Tucuman,Rosario Central,2,3,3.12,3.07,2.29
+ARG,18/10/2026,00:00,Velez Sarsfield,Gimnasia Mendoza,1,0,1.77,3.46,4.42
+ARG,18/10/2026,18:45,Racing Club,Independiente,1,1,2.37,2.92,3.14
+ARG,18/10/2026,22:00,Estudiantes L.P.,San Lorenzo,1,2,2.01,3.13,3.83
+ARG,18/10/2026,22:00,Estudiantes Rio Cuarto,Aldosivi,2,1,2.6,2.86,2.89
+ARG,19/10/2026,00:15,Belgrano,River Plate,0,3,3.53,3.07,2.11
+ARG,19/10/2026,23:00,Newells Old Boys,Central Cordoba,2,1,1.62,3.58,5.54
+ARG,19/10/2026,23:00,Sarmiento Junin,Barracas Central,1,1,2.31,2.95,3.22
+ARG,20/10/2026,01:15,Dep. Riestra,Union de Santa Fe,1,1,2.09,3.03,3.64
+ARG,23/10/2026,22:00,Gimnasia L.P.,Sarmiento Junin,2,0,1.58,3.86,5.23
+ARG,23/10/2026,22:30,Gimnasia Mendoza,Platense,1,2,2.59,3.01,2.75
+ARG,24/10/2026,01:15,Tigre,Atl. Tucuman,0,1,1.91,3.09,4.23
+ARG,24/10/2026,18:45,Banfield,Lanus,1,1,3.62,3.16,2.05
+ARG,24/10/2026,21:00,Talleres Cordoba,Defensa y Justicia,1,2,2.31,3.18,3
+ARG,24/10/2026,23:15,San Lorenzo,Newells Old Boys,0,0,2.63,2.8,2.91
+ARG,25/10/2026,01:30,Rosario Central,Huracan,2,0,1.8,3.29,4.69
+ARG,25/10/2026,17:45,Aldosivi,Belgrano,1,0,3.77,3.21,1.99
+ARG,25/10/2026,20:00,Independiente,Boca Juniors,0,1,3.98,3.12,1.96
+ARG,25/10/2026,22:15,River Plate,Racing Club,1,0,1.4,4.37,7.39
+ARG,26/10/2026,00:30,Barracas Central,Estudiantes Rio Cuarto,2,1,1.77,3.09,5.16
+ARG,26/10/2026,00:30,Central Cordoba,Velez Sarsfield,0,5,3.7,3.35,1.96
+ARG,26/10/2026,22:00,Union de Santa Fe,Estudiantes L.P.,3,1,2.77,3.11,2.52
+ARG,27/10/2026,00:15,Instituto,Dep. Riestra,1,0,1.78,3.14,5.08
+ARG,27/10/2026,22:00,Argentinos Jrs,Ind. Rivadavia,1,0,2.04,3.09,3.78
+ARG,30/10/2026,22:00,Estudiantes Rio Cuarto,Gimnasia L.P.,1,2,4.08,3.23,1.89
+ARG,30/10/2026,22:00,Huracan,Tigre,0,2,2.38,2.89,3.16
+ARG,31/10/2026,00:15,Racing Club,Aldosivi,2,1,1.7,3.57,4.76
+ARG,31/10/2026,00:15,Sarmiento Junin,Rosario Central,1,2,4.1,3.41,1.85
+ARG,31/10/2026,20:00,Dep. Riestra,Talleres Cordoba,0,3,2.56,2.89,2.93
+ARG,31/10/2026,22:15,Velez Sarsfield,San Lorenzo,2,2,1.86,3.23,4.34
+ARG,01/11/2026,00:30,Estudiantes L.P.,Instituto,3,3,1.99,3.04,4.04
+ARG,01/11/2026,18:00,Boca Juniors,River Plate,1,0,2.16,3.04,3.43
+ARG,01/11/2026,21:30,Belgrano,Barracas Central,2,2,1.83,3.25,4.4
+ARG,01/11/2026,21:30,Newells Old Boys,Union de Santa Fe,1,1,2.09,3.16,3.53
+ARG,01/11/2026,23:45,Lanus,Gimnasia Mendoza,1,1,1.47,4.11,6.43
+ARG,02/11/2026,22:00,Defensa y Justicia,Independiente,1,1,2.26,3.17,3.13
+ARG,02/11/2026,22:00,Platense,Central Cordoba,2,0,1.42,4.16,7.64
+ARG,03/11/2026,00:15,Atl. Tucuman,Argentinos Jrs,1,2,2.78,2.96,2.61
+ARG,03/11/2026,00:15,Ind. Rivadavia,Banfield,3,1,1.58,3.83,5.3
+ARG,05/11/2026,18:00,Aldosivi,River Plate,0,2,7.78,4.56,1.36
+ARG,05/11/2026,22:15,Gimnasia L.P.,Belgrano,2,1,2.76,3.17,2.49

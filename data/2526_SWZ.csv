@@ -1,0 +1,229 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,AvgH,AvgD,AvgA
+SWZ,25/07/2025,19:30,Zurich,Sion,2,3,2.26,3.42,2.86
+SWZ,26/07/2025,17:00,Grasshoppers,Luzern,2,3,2.7,3.31,2.43
+SWZ,26/07/2025,17:00,St. Gallen,Basel,2,1,4.34,4.06,1.64
+SWZ,26/07/2025,19:30,Young Boys,Servette,3,1,1.68,3.95,4.27
+SWZ,27/07/2025,15:00,Lausanne,Winterthur,3,2,1.67,4.03,4.28
+SWZ,27/07/2025,15:00,Lugano,Thun,1,2,1.86,3.6,3.73
+SWZ,02/08/2025,17:00,Servette,St. Gallen,1,4,1.85,3.75,3.64
+SWZ,02/08/2025,17:00,Winterthur,Young Boys,1,1,4.9,4.12,1.58
+SWZ,02/08/2025,19:30,Basel,Grasshoppers,2,1,1.25,5.97,8.86
+SWZ,03/08/2025,13:00,Thun,Lausanne,2,1,2.42,3.55,2.58
+SWZ,03/08/2025,15:30,Luzern,Zurich,1,1,2.11,3.57,3.05
+SWZ,03/08/2025,15:30,Sion,Lugano,4,0,3.2,3.21,2.19
+SWZ,06/08/2025,19:30,Basel,Young Boys,4,1,1.71,4.01,3.83
+SWZ,09/08/2025,17:00,St. Gallen,Winterthur,5,0,1.73,3.83,3.97
+SWZ,09/08/2025,19:30,Luzern,Thun,1,2,2.12,3.48,2.98
+SWZ,10/08/2025,13:00,Young Boys,Sion,0,0,1.57,4.17,4.84
+SWZ,10/08/2025,15:30,Lausanne,Zurich,1,2,1.87,3.59,3.59
+SWZ,10/08/2025,15:30,Lugano,Basel,3,1,3.28,3.67,1.94
+SWZ,10/08/2025,15:30,Servette,Grasshoppers,1,1,1.74,3.74,3.97
+SWZ,23/08/2025,17:00,Zurich,Thun,0,4,2.2,3.43,2.96
+SWZ,24/08/2025,13:00,Grasshoppers,Winterthur,2,2,2.01,3.46,3.28
+SWZ,24/08/2025,15:30,St. Gallen,Luzern,0,1,1.98,3.58,3.23
+SWZ,30/08/2025,17:00,Thun,Grasshoppers,1,1,1.8,3.76,3.82
+SWZ,30/08/2025,17:00,Winterthur,Zurich,1,3,3.16,3.59,2.04
+SWZ,30/08/2025,19:30,Sion,Basel,0,1,3.22,3.66,2
+SWZ,31/08/2025,13:00,Lausanne,St. Gallen,1,2,2.15,3.48,2.96
+SWZ,31/08/2025,15:30,Servette,Luzern,2,2,2.39,3.55,2.58
+SWZ,31/08/2025,15:30,Young Boys,Lugano,3,1,1.98,3.61,3.3
+SWZ,13/09/2025,17:00,Thun,Basel,1,3,3.04,3.73,2.03
+SWZ,13/09/2025,17:00,Zurich,Servette,2,1,2.26,3.59,2.73
+SWZ,13/09/2025,19:30,St. Gallen,Lugano,1,0,2.33,3.34,2.78
+SWZ,14/09/2025,13:00,Winterthur,Sion,2,3,3.48,3.43,1.96
+SWZ,14/09/2025,15:30,Grasshoppers,Lausanne,3,1,2.74,3.4,2.33
+SWZ,14/09/2025,15:30,Luzern,Young Boys,1,2,2.74,3.51,2.28
+SWZ,17/09/2025,18:00,Lugano,Lausanne,1,1,1.85,3.62,3.7
+SWZ,17/09/2025,18:00,Sion,Servette,0,2,2.29,3.42,2.77
+SWZ,27/09/2025,17:00,Lugano,Grasshoppers,2,1,1.58,4.01,4.93
+SWZ,27/09/2025,17:00,Servette,Winterthur,4,0,1.45,4.55,5.63
+SWZ,27/09/2025,19:30,Zurich,St. Gallen,3,1,2.48,3.45,2.52
+SWZ,28/09/2025,13:00,Young Boys,Thun,4,2,1.78,3.94,3.68
+SWZ,28/09/2025,15:30,Basel,Luzern,1,2,1.53,4.3,4.88
+SWZ,28/09/2025,15:30,Sion,Lausanne,0,0,2.12,3.4,3.1
+SWZ,04/10/2025,17:00,Luzern,Sion,3,3,2.33,3.32,2.78
+SWZ,04/10/2025,17:00,St. Gallen,Thun,1,2,2.23,3.5,2.84
+SWZ,04/10/2025,19:30,Grasshoppers,Zurich,3,0,3.31,3.48,1.99
+SWZ,05/10/2025,13:00,Lausanne,Young Boys,5,0,2.84,3.67,2.16
+SWZ,05/10/2025,15:30,Servette,Basel,0,3,2.9,3.67,2.12
+SWZ,05/10/2025,15:30,Winterthur,Lugano,2,4,4.12,3.77,1.73
+SWZ,18/10/2025,17:00,Basel,Winterthur,3,0,1.25,6.07,8.36
+SWZ,18/10/2025,17:00,Thun,Servette,3,1,2.37,3.6,2.57
+SWZ,18/10/2025,19:30,Lugano,Zurich,1,0,1.84,3.74,3.63
+SWZ,19/10/2025,13:00,Grasshoppers,Sion,0,1,2.53,3.3,2.56
+SWZ,19/10/2025,15:30,Luzern,Lausanne,2,2,2.33,3.57,2.63
+SWZ,19/10/2025,15:30,Young Boys,St. Gallen,1,2,1.72,3.93,3.94
+SWZ,25/10/2025,17:00,Sion,Thun,0,1,2.13,3.4,3.09
+SWZ,25/10/2025,17:00,St. Gallen,Grasshoppers,5,0,1.82,3.71,3.74
+SWZ,25/10/2025,19:30,Winterthur,Luzern,2,2,3.2,3.67,1.99
+SWZ,26/10/2025,13:00,Zurich,Young Boys,2,3,2.47,3.49,2.53
+SWZ,26/10/2025,15:30,Lausanne,Basel,5,1,3.01,3.72,2.05
+SWZ,26/10/2025,15:30,Servette,Lugano,2,1,2.37,3.52,2.61
+SWZ,28/10/2025,19:30,Sion,St. Gallen,3,2,2.42,3.41,2.63
+SWZ,28/10/2025,19:30,Thun,Winterthur,3,0,1.41,4.69,6.01
+SWZ,29/10/2025,19:30,Basel,Zurich,2,0,1.45,4.66,5.52
+SWZ,29/10/2025,19:30,Lausanne,Servette,1,3,2.19,3.58,2.84
+SWZ,30/10/2025,19:30,Grasshoppers,Young Boys,3,3,2.86,3.46,2.23
+SWZ,30/10/2025,19:30,Lugano,Luzern,2,0,1.74,3.75,4.06
+SWZ,01/11/2025,17:00,Thun,Sion,2,1,1.97,3.54,3.37
+SWZ,01/11/2025,17:00,Winterthur,Servette,4,2,4.4,4.01,1.64
+SWZ,01/11/2025,19:30,Zurich,Lausanne,1,2,2.18,3.65,2.83
+SWZ,02/11/2025,15:30,Luzern,Grasshoppers,6,0,1.76,3.76,3.94
+SWZ,02/11/2025,15:30,Young Boys,Basel,0,0,2.44,3.74,2.43
+SWZ,08/11/2025,17:00,Winterthur,Grasshoppers,0,1,2.9,3.49,2.18
+SWZ,08/11/2025,17:00,Zurich,Luzern,3,2,2.48,3.42,2.56
+SWZ,08/11/2025,19:30,Servette,Thun,0,1,1.86,3.73,3.56
+SWZ,09/11/2025,13:00,Basel,Lugano,0,1,1.73,3.93,3.9
+SWZ,09/11/2025,15:30,Lausanne,Sion,2,2,1.98,3.6,3.3
+SWZ,09/11/2025,15:30,St. Gallen,Young Boys,1,4,2.23,3.6,2.77
+SWZ,22/11/2025,17:00,Luzern,Servette,2,2,2.4,3.35,2.67
+SWZ,22/11/2025,17:00,Young Boys,Winterthur,5,0,1.32,5.39,6.93
+SWZ,22/11/2025,19:30,Thun,Lugano,0,1,2.36,3.51,2.64
+SWZ,23/11/2025,13:00,Sion,Zurich,2,2,2.04,3.39,3.32
+SWZ,23/11/2025,15:30,Grasshoppers,Basel,1,1,4.45,3.82,1.67
+SWZ,23/11/2025,15:30,St. Gallen,Lausanne,1,0,2.42,3.43,2.61
+SWZ,26/11/2025,18:00,Lugano,St. Gallen,1,3,1.85,3.56,3.74
+SWZ,29/11/2025,17:00,Lugano,Sion,1,1,2.22,3.18,3.08
+SWZ,29/11/2025,17:00,Zurich,Grasshoppers,1,0,1.97,3.55,3.37
+SWZ,29/11/2025,19:30,Luzern,Winterthur,1,3,1.39,4.63,6.58
+SWZ,30/11/2025,13:00,Servette,Young Boys,4,4,2.54,3.49,2.45
+SWZ,30/11/2025,15:30,Basel,St. Gallen,0,0,1.51,4.4,5
+SWZ,30/11/2025,15:30,Lausanne,Thun,2,1,2.13,3.79,2.82
+SWZ,06/12/2025,17:00,Grasshoppers,Servette,0,1,3.14,3.51,2.06
+SWZ,06/12/2025,17:00,Thun,Luzern,4,1,2.15,3.45,3.02
+SWZ,06/12/2025,19:30,St. Gallen,Zurich,1,2,1.8,3.73,3.82
+SWZ,07/12/2025,13:00,Winterthur,Basel,1,2,6.67,5.06,1.35
+SWZ,07/12/2025,15:30,Lausanne,Lugano,0,0,2.55,3.57,2.4
+SWZ,07/12/2025,15:30,Sion,Young Boys,2,0,2.49,3.45,2.52
+SWZ,13/12/2025,17:00,Sion,Grasshoppers,1,0,1.68,3.72,4.4
+SWZ,13/12/2025,17:00,Zurich,Winterthur,2,2,1.55,4.25,4.82
+SWZ,13/12/2025,19:30,Thun,St. Gallen,0,2,1.99,3.54,3.29
+SWZ,14/12/2025,13:00,Young Boys,Luzern,2,0,1.69,4.07,4.04
+SWZ,14/12/2025,15:30,Basel,Lausanne,0,0,1.74,3.88,3.92
+SWZ,14/12/2025,15:30,Lugano,Servette,4,2,2.11,3.4,3.12
+SWZ,17/12/2025,19:30,Luzern,Basel,1,2,3.63,3.89,1.8
+SWZ,17/12/2025,19:30,Young Boys,Grasshoppers,2,6,1.53,4.19,5.09
+SWZ,17/12/2025,19:30,Zurich,Lugano,0,1,2.69,3.52,2.32
+SWZ,16/12/2025,19:30,St. Gallen,Sion,3,1,2.25,3.38,2.87
+SWZ,16/12/2025,19:30,Winterthur,Thun,1,4,4.23,4.05,1.66
+SWZ,20/12/2025,17:00,Thun,Zurich,4,2,1.75,3.85,3.87
+SWZ,20/12/2025,19:30,Basel,Servette,1,1,1.64,3.96,4.34
+SWZ,21/12/2025,13:00,Lausanne,Luzern,0,4,2.1,3.65,2.96
+SWZ,21/12/2025,15:30,Grasshoppers,St. Gallen,1,2,2.72,3.41,2.34
+SWZ,21/12/2025,15:30,Lugano,Young Boys,3,0,2.03,3.53,3.19
+SWZ,14/01/2026,19:30,Servette,Lausanne,0,1,1.87,3.52,3.69
+SWZ,14/01/2026,19:30,Sion,Winterthur,2,0,1.32,4.98,7.88
+SWZ,17/01/2026,17:00,Luzern,Lugano,2,5,2.63,3.31,2.46
+SWZ,17/01/2026,19:30,Young Boys,Lausanne,1,3,2.08,3.41,3.18
+SWZ,18/01/2026,13:00,Servette,Zurich,1,1,1.66,3.82,4.5
+SWZ,18/01/2026,15:30,Basel,Sion,1,1,1.78,3.66,4.01
+SWZ,18/01/2026,15:30,Grasshoppers,Thun,1,3,2.91,3.35,2.24
+SWZ,24/01/2026,17:00,Lausanne,Grasshoppers,1,1,1.75,3.61,4.22
+SWZ,24/01/2026,17:00,Lugano,Winterthur,4,1,1.3,5.22,8.34
+SWZ,24/01/2026,19:30,Sion,Luzern,1,1,1.95,3.54,3.47
+SWZ,25/01/2026,13:00,Thun,Young Boys,4,1,1.86,3.8,3.56
+SWZ,25/01/2026,15:30,St. Gallen,Servette,2,4,2.23,3.4,2.94
+SWZ,25/01/2026,15:30,Zurich,Basel,3,4,3.42,3.66,1.93
+SWZ,31/01/2026,17:00,Servette,Sion,3,3,1.98,3.37,3.55
+SWZ,31/01/2026,17:00,Winterthur,Lausanne,2,1,4.59,3.94,1.64
+SWZ,31/01/2026,19:30,Grasshoppers,Lugano,1,1,3.39,3.5,1.99
+SWZ,01/02/2026,13:00,Luzern,St. Gallen,2,2,2.35,3.54,2.65
+SWZ,01/02/2026,15:30,Basel,Thun,1,2,2.32,3.53,2.71
+SWZ,01/02/2026,15:30,Young Boys,Zurich,3,0,1.52,4.34,5.17
+SWZ,07/02/2026,17:00,Sion,Luzern,0,0,2.19,3.41,2.94
+SWZ,07/02/2026,17:00,Winterthur,Lugano,1,1,4.71,4.17,1.57
+SWZ,07/02/2026,19:30,Grasshoppers,Young Boys,1,1,3.84,3.73,1.78
+SWZ,08/02/2026,13:00,Servette,Thun,1,3,2.08,3.5,3.08
+SWZ,08/02/2026,15:30,Basel,Zurich,2,1,1.48,4.46,5.33
+SWZ,08/02/2026,15:30,Lausanne,St. Gallen,1,1,2.07,3.41,3.21
+SWZ,10/02/2026,19:30,Luzern,Grasshoppers,4,3,1.74,3.83,4.02
+SWZ,11/02/2026,19:30,Lugano,Servette,1,1,2.23,3.2,3.1
+SWZ,11/02/2026,19:30,St. Gallen,Young Boys,2,1,1.93,3.77,3.32
+SWZ,11/02/2026,19:30,Zurich,Winterthur,3,0,1.9,3.71,3.48
+SWZ,12/02/2026,19:30,Sion,Basel,2,0,2.27,3.37,2.9
+SWZ,12/02/2026,19:30,Thun,Lausanne,5,1,1.83,3.69,3.73
+SWZ,14/02/2026,17:00,St. Gallen,Grasshoppers,0,0,1.51,4.34,5.19
+SWZ,14/02/2026,17:00,Zurich,Luzern,1,4,2.9,3.36,2.24
+SWZ,14/02/2026,19:30,Young Boys,Winterthur,6,1,1.3,5.37,7.51
+SWZ,15/02/2026,13:00,Thun,Sion,1,0,1.77,3.69,3.96
+SWZ,15/02/2026,15:30,Basel,Lugano,1,1,2.31,3.51,2.7
+SWZ,15/02/2026,15:30,Lausanne,Servette,3,3,2.48,3.34,2.57
+SWZ,18/02/2026,18:00,Winterthur,St. Gallen,1,5,4.64,4.14,1.6
+SWZ,21/02/2026,17:00,Servette,St. Gallen,1,1,2.15,3.52,2.97
+SWZ,21/02/2026,19:30,Grasshoppers,Zurich,1,2,2.52,3.25,2.65
+SWZ,22/02/2026,13:00,Sion,Young Boys,3,1,2.36,3.46,2.69
+SWZ,22/02/2026,15:30,Lugano,Lausanne,2,1,1.82,3.6,3.87
+SWZ,22/02/2026,15:30,Luzern,Basel,4,2,2.24,3.68,2.73
+SWZ,25/02/2026,18:00,Winterthur,Thun,0,3,5.98,4.66,1.42
+SWZ,28/02/2026,17:00,St. Gallen,Winterthur,2,1,1.21,6.2,9.95
+SWZ,28/02/2026,17:00,Thun,Luzern,2,1,1.78,3.92,3.67
+SWZ,28/02/2026,19:30,Servette,Sion,0,0,2,3.28,3.5
+SWZ,01/03/2026,13:00,Lausanne,Basel,1,2,2.36,3.56,2.6
+SWZ,01/03/2026,15:30,Grasshoppers,Lugano,1,0,3.18,3.26,2.13
+SWZ,01/03/2026,15:30,Young Boys,Zurich,3,0,1.54,4.25,4.78
+SWZ,03/03/2026,19:30,Winterthur,Servette,1,1,4.14,3.85,1.71
+SWZ,04/03/2026,19:30,Lugano,Sion,2,1,2.05,3.39,3.27
+SWZ,04/03/2026,19:30,Luzern,Young Boys,1,2,2.11,3.73,2.88
+SWZ,04/03/2026,19:30,Zurich,Lausanne,1,2,3.63,3.7,1.84
+SWZ,05/03/2026,19:30,Basel,Grasshoppers,1,0,1.71,3.67,4.37
+SWZ,05/03/2026,19:30,Thun,St. Gallen,2,2,1.86,3.83,3.46
+SWZ,07/03/2026,17:00,Servette,Zurich,2,1,1.53,4.13,5.22
+SWZ,07/03/2026,17:00,Sion,Winterthur,1,1,1.27,5.4,9.02
+SWZ,07/03/2026,19:30,Lugano,Luzern,1,3,2.08,3.52,3.09
+SWZ,08/03/2026,13:00,St. Gallen,Basel,3,0,1.95,3.72,3.28
+SWZ,08/03/2026,15:30,Grasshoppers,Lausanne,2,3,2.61,3.3,2.48
+SWZ,08/03/2026,15:30,Young Boys,Thun,1,2,2.14,3.77,2.8
+SWZ,14/03/2026,17:00,Thun,Grasshoppers,5,1,1.5,4.07,5.67
+SWZ,14/03/2026,17:00,Zurich,Sion,1,2,3.42,3.63,1.92
+SWZ,15/03/2026,13:00,Lausanne,Young Boys,0,2,2.23,3.68,2.72
+SWZ,15/03/2026,15:30,Basel,Servette,3,1,2.16,3.59,2.89
+SWZ,15/03/2026,15:30,Luzern,Winterthur,1,2,1.29,5.55,7.67
+SWZ,17/03/2026,18:00,St. Gallen,Lugano,1,1,1.97,3.5,3.36
+SWZ,21/03/2026,17:00,Servette,Grasshoppers,5,0,1.76,3.57,4.17
+SWZ,21/03/2026,17:00,Zurich,Thun,2,1,5.06,4.11,1.55
+SWZ,21/03/2026,19:30,Sion,St. Gallen,1,1,2.22,3.43,2.91
+SWZ,22/03/2026,13:00,Winterthur,Basel,0,2,4.05,3.99,1.7
+SWZ,22/03/2026,15:30,Luzern,Lausanne,4,0,1.74,3.99,3.79
+SWZ,22/03/2026,15:30,Young Boys,Lugano,1,1,1.83,3.73,3.64
+SWZ,04/04/2026,17:00,Lausanne,Winterthur,2,1,1.46,4.43,5.49
+SWZ,04/04/2026,17:00,Lugano,Thun,1,0,2.49,3.51,2.46
+SWZ,04/04/2026,19:30,Basel,Young Boys,3,3,2.16,3.62,2.84
+SWZ,06/04/2026,13:00,Grasshoppers,Sion,0,4,2.89,3.4,2.21
+SWZ,06/04/2026,15:30,Servette,Luzern,3,0,2.06,3.7,2.99
+SWZ,06/04/2026,15:30,St. Gallen,Zurich,2,1,1.45,4.61,5.44
+SWZ,11/04/2026,17:00,Winterthur,Grasshoppers,0,2,7.62,4.04,2.27
+SWZ,11/04/2026,17:00,Zurich,Lugano,0,1,3.56,3.73,1.87
+SWZ,12/04/2026,15:30,Luzern,St. Gallen,2,2,2,3.85,3.1
+SWZ,12/04/2026,15:30,Sion,Lausanne,3,0,1.87,3.42,3.88
+SWZ,12/04/2026,15:30,Young Boys,Servette,1,1,2.44,3.51,4.5
+SWZ,18/04/2026,19:30,Thun,Basel,3,1,1.77,4.01,3.66
+SWZ,25/04/2026,17:00,Grasshoppers,Luzern,1,2,3.64,3.77,1.82
+SWZ,25/04/2026,17:00,Lausanne,Zurich,3,0,1.69,3.95,4.01
+SWZ,25/04/2026,19:30,Thun,Lugano,0,1,1.92,3.67,3.31
+SWZ,26/04/2026,13:00,Basel,Sion,0,2,2.68,3.45,2.33
+SWZ,26/04/2026,15:30,Servette,Winterthur,5,3,1.39,4.82,6.14
+SWZ,26/04/2026,15:30,Young Boys,St. Gallen,1,2,1.84,3.99,3.36
+SWZ,02/05/2026,17:00,Lausanne,Luzern,1,3,2.47,3.66,2.42
+SWZ,02/05/2026,17:00,Winterthur,Zurich,2,2,2.28,3.57,2.67
+SWZ,02/05/2026,19:30,Basel,Thun,3,1,2.58,3.64,2.33
+SWZ,03/05/2026,13:00,St. Gallen,Sion,0,3,2.17,3.59,2.8
+SWZ,03/05/2026,15:30,Grasshoppers,Servette,0,2,2.87,3.52,2.18
+SWZ,03/05/2026,15:30,Lugano,Young Boys,1,0,2.06,3.7,3.01
+SWZ,09/05/2026,17:00,Winterthur,Lausanne,2,1,2.53,3.57,2.4
+SWZ,09/05/2026,17:00,Zurich,Grasshoppers,2,1,2.52,3.33,2.54
+SWZ,09/05/2026,19:30,Luzern,Servette,3,3,2.14,3.64,2.85
+SWZ,10/05/2026,13:00,Lugano,St. Gallen,1,2,2.17,3.54,2.87
+SWZ,10/05/2026,15:30,Sion,Thun,2,0,1.51,4.29,5.17
+SWZ,10/05/2026,15:30,Young Boys,Basel,3,0,1.8,4.08,3.46
+SWZ,12/05/2026,19:30,Grasshoppers,Winterthur,3,2,2.12,3.52,3.01
+SWZ,12/05/2026,19:30,Luzern,Zurich,1,0,1.42,4.77,5.72
+SWZ,12/05/2026,19:30,Servette,Lausanne,2,0,1.8,3.8,3.68
+SWZ,14/05/2026,15:30,Basel,St. Gallen,1,3,1.99,3.87,3.07
+SWZ,14/05/2026,15:30,Sion,Lugano,2,2,1.98,3.35,3.48
+SWZ,14/05/2026,15:30,Thun,Young Boys,3,8,2.12,3.87,2.77
+SWZ,16/05/2026,17:00,Lausanne,Grasshoppers,1,3,1.23,6.13,9.34
+SWZ,16/05/2026,17:00,Winterthur,Luzern,0,3,6.28,5.3,1.35
+SWZ,16/05/2026,17:00,Zurich,Servette,0,2,3.12,3.85,1.96
+SWZ,17/05/2026,15:30,Lugano,Basel,4,0,1.48,4.54,5.12
+SWZ,17/05/2026,15:30,St. Gallen,Thun,1,1,1.71,4.28,3.69
+SWZ,17/05/2026,15:30,Young Boys,Sion,3,3,2.3,3.96,2.46

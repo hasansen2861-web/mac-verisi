@@ -1,0 +1,135 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,AvgH,AvgD,AvgA
+MEX,17/07/2026,02:00,Necaxa,Atlante,2,1,1.85,3.54,3.7
+MEX,17/07/2026,04:10,Club Tijuana,Tigres UANL,3,1,3.37,3.32,2.01
+MEX,18/07/2026,02:00,Atl. San Luis,Cruz Azul,2,3,4.61,3.77,1.63
+MEX,18/07/2026,02:00,Club Leon,Atlas,2,3,2.09,3.31,3.14
+MEX,18/07/2026,04:00,Juarez,Puebla,0,1,1.65,3.82,4.46
+MEX,19/07/2026,00:00,UNAM Pumas,Pachuca,0,3,2.45,3.27,2.64
+MEX,19/07/2026,02:05,Monterrey,Santos Laguna,3,2,1.44,4.47,5.69
+MEX,19/07/2026,02:07,Guadalajara Chivas,Toluca,0,2,1.91,3.55,3.45
+MEX,19/07/2026,04:10,Queretaro,Club America,0,1,3.55,3.53,1.89
+MEX,22/07/2026,02:00,Cruz Azul,Puebla,2,1,1.31,4.99,7.74
+MEX,22/07/2026,04:05,Toluca,UNAM Pumas,1,2,1.53,4.09,5.09
+MEX,25/07/2026,04:00,Atlante,Club America,1,1,5.63,4.01,1.49
+MEX,25/07/2026,04:00,Club Tijuana,Club Leon,1,0,1.86,3.51,3.69
+MEX,26/07/2026,00:07,Guadalajara Chivas,Juarez,1,0,1.35,4.79,6.91
+MEX,26/07/2026,04:00,Santos Laguna,Atlas,0,1,2.67,3.2,2.44
+MEX,26/07/2026,04:00,Tigres UANL,Atl. San Luis,2,2,1.45,4.22,6
+MEX,27/07/2026,00:00,Necaxa,Monterrey,2,1,3.31,3.57,1.95
+MEX,27/07/2026,02:06,Pachuca,Queretaro,1,2,1.62,3.74,4.8
+MEX,01/08/2026,02:00,Puebla,Guadalajara Chivas,1,1,5.61,4.28,1.47
+MEX,01/08/2026,04:00,Atl. San Luis,Club Tijuana,0,0,2.2,3.3,2.97
+MEX,01/08/2026,04:00,Juarez,UNAM Pumas,1,5,2.54,3.35,2.49
+MEX,02/08/2026,00:00,Queretaro,Tigres UANL,3,2,3,3.32,2.18
+MEX,02/08/2026,02:00,Club Leon,Pachuca,1,0,2.87,3.26,2.26
+MEX,02/08/2026,02:05,Atlas,Monterrey,0,2,2.53,3.28,2.55
+MEX,02/08/2026,04:05,Cruz Azul,Atlante,2,3,1.35,4.62,7.52
+MEX,03/08/2026,00:00,Club America,Santos Laguna,3,0,1.34,4.86,6.99
+MEX,03/08/2026,02:10,Toluca,Necaxa,3,1,1.44,4.43,5.73
+MEX,16/08/2026,00:00,Atlante,Toluca,0,0,5.01,3.94,1.57
+MEX,16/08/2026,02:10,Monterrey,Juarez,6,1,1.45,4.49,5.64
+MEX,16/08/2026,04:10,Atlas,Tigres UANL,2,1,3.09,3.12,2.25
+MEX,16/08/2026,19:00,UNAM Pumas,Queretaro,0,0,1.86,3.54,3.73
+MEX,17/08/2026,00:00,Club America,Atl. San Luis,3,0,1.89,3.45,3.74
+MEX,17/08/2026,02:10,Santos Laguna,Guadalajara Chivas,0,1,5.1,4.3,1.52
+MEX,17/08/2026,04:00,Club Tijuana,Cruz Azul,2,1,2.73,3.28,2.39
+MEX,18/08/2026,02:00,Necaxa,Club Leon,1,2,2.68,3.3,2.42
+MEX,18/08/2026,04:06,Pachuca,Puebla,2,3,1.59,3.88,5
+MEX,22/08/2026,02:00,Club Leon,Monterrey,2,0,3.03,3.51,2.14
+MEX,22/08/2026,02:00,Tigres UANL,Atlante,2,0,1.53,4.17,5.22
+MEX,22/08/2026,04:10,Juarez,Club America,1,2,4.97,3.82,1.62
+MEX,22/08/2026,04:10,Queretaro,Toluca,1,2,3.58,3.63,1.89
+MEX,23/08/2026,00:07,Guadalajara Chivas,Club Tijuana,5,2,1.42,4.51,6.19
+MEX,23/08/2026,02:00,Puebla,Santos Laguna,3,2,2.08,3.53,3.12
+MEX,23/08/2026,04:00,Cruz Azul,Atlas,0,2,1.58,3.92,5.17
+MEX,24/08/2026,00:00,Atl. San Luis,Pachuca,1,1,3.09,3.48,2.12
+MEX,24/08/2026,02:00,UNAM Pumas,Necaxa,1,1,1.88,3.59,3.65
+MEX,29/08/2026,02:00,Atlante,Club Leon,1,1,2.51,3.52,2.49
+MEX,29/08/2026,02:00,Necaxa,Cruz Azul,1,3,3.48,3.59,1.93
+MEX,29/08/2026,04:10,Club Tijuana,UNAM Pumas,2,0,1.98,3.42,3.47
+MEX,30/08/2026,00:00,Atlas,Queretaro,1,3,2.06,3.28,3.39
+MEX,30/08/2026,00:00,Pachuca,Guadalajara Chivas,1,1,3.03,3.53,2.13
+MEX,30/08/2026,02:05,Club America,Puebla,2,0,1.69,3.82,4.34
+MEX,30/08/2026,04:10,Santos Laguna,Tigres UANL,0,0,4.18,3.77,1.72
+MEX,31/08/2026,01:00,Toluca,Juarez,4,0,1.33,5.03,7.64
+MEX,31/08/2026,03:10,Monterrey,Atl. San Luis,1,3,1.82,3.72,3.79
+MEX,05/09/2026,04:00,Juarez,Pachuca,0,2,3.33,3.36,2.06
+MEX,06/09/2026,00:00,Atl. San Luis,Guadalajara Chivas,0,3,4.21,3.75,1.73
+MEX,06/09/2026,02:00,Tigres UANL,Necaxa,1,1,1.61,3.8,5.04
+MEX,06/09/2026,04:00,Atlas,Atlante,1,1,1.84,3.42,3.99
+MEX,07/09/2026,00:00,Cruz Azul,Santos Laguna,1,0,1.34,5.11,6.96
+MEX,11/09/2026,04:05,UNAM Pumas,Club Leon,3,1,2.13,3.47,2.98
+MEX,12/09/2026,02:00,Necaxa,Puebla,0,1,1.95,3.6,3.33
+MEX,12/09/2026,04:00,Atlante,Pachuca,0,3,2.87,3.24,2.3
+MEX,12/09/2026,04:10,Club Tijuana,Queretaro,0,1,1.93,3.4,3.69
+MEX,13/09/2026,00:05,Toluca,Atlas,5,2,1.34,4.77,7.48
+MEX,13/09/2026,02:10,Monterrey,Tigres UANL,0,0,1.98,3.43,3.44
+MEX,13/09/2026,04:15,Cruz Azul,Club America,4,3,2.59,3.46,2.41
+MEX,14/09/2026,02:00,Santos Laguna,Juarez,2,1,1.98,3.49,3.37
+MEX,14/09/2026,02:07,Guadalajara Chivas,UNAM Pumas,3,0,1.5,4.26,5.41
+MEX,15/09/2026,02:00,Club Leon,Atl. San Luis,2,0,1.89,3.64,3.52
+MEX,16/09/2026,02:00,Puebla,Toluca,0,1,5.71,4.48,1.46
+MEX,19/09/2026,02:00,Puebla,Atlante,1,1,2.38,3.27,2.8
+MEX,19/09/2026,04:00,Juarez,Tigres UANL,2,0,4.15,3.55,1.78
+MEX,20/09/2026,00:00,Atl. San Luis,Necaxa,3,1,2.2,3.49,2.92
+MEX,20/09/2026,00:00,Atlas,UNAM Pumas,1,1,2.13,3.33,3.17
+MEX,20/09/2026,02:10,Monterrey,Cruz Azul,1,0,2.23,3.41,2.9
+MEX,20/09/2026,04:15,Club America,Guadalajara Chivas,2,2,2.62,3.45,2.42
+MEX,21/09/2026,01:00,Pachuca,Club Tijuana,2,2,1.66,3.65,4.79
+MEX,21/09/2026,01:00,Toluca,Santos Laguna,2,3,1.19,6.74,10.69
+MEX,21/09/2026,03:10,Queretaro,Club Leon,1,1,2.76,3.37,2.37
+MEX,26/09/2026,02:00,Atlante,Monterrey,4,2,3.1,3.55,2.25
+MEX,26/09/2026,04:00,Club Tijuana,Atlas,2,3,2.2,3.4,3.33
+MEX,26/09/2026,23:50,Cruz Azul,Toluca,3,3,2.6,3.6,2.6
+MEX,27/09/2026,00:07,Guadalajara Chivas,Queretaro,0,2,1.65,4.1,5
+MEX,27/09/2026,04:05,Santos Laguna,Pachuca,1,0,2.45,3.5,3
+MEX,27/09/2026,04:10,Tigres UANL,Puebla,1,0,1.67,4,5.75
+MEX,27/09/2026,19:00,UNAM Pumas,Atl. San Luis,2,3,2.1,3.6,3.5
+MEX,28/09/2026,02:00,Club Leon,Juarez,2,1,1.52,4.35,6.5
+MEX,28/09/2026,04:10,Necaxa,Club America,2,4,4.5,3.9,1.83
+MEX,10/10/2026,02:00,Puebla,Club Leon,1,1,2.8,3.27,2.35
+MEX,10/10/2026,04:00,Tigres UANL,Toluca,3,2,2.86,3.45,2.21
+MEX,11/10/2026,00:00,Juarez,Club Tijuana,1,1,2.76,3.26,2.38
+MEX,11/10/2026,00:00,Queretaro,Atlante,2,0,2.08,3.36,3.21
+MEX,11/10/2026,02:00,Atlas,Guadalajara Chivas,1,1,3.23,3.4,2.05
+MEX,11/10/2026,04:10,Club America,Monterrey,1,1,1.79,3.68,3.88
+MEX,12/10/2026,00:00,Atl. San Luis,Santos Laguna,1,2,2.15,3.49,2.98
+MEX,12/10/2026,00:10,Pachuca,Necaxa,3,3,1.67,3.83,4.39
+MEX,12/10/2026,02:15,UNAM Pumas,Cruz Azul,3,3,2.87,3.47,2.21
+MEX,17/10/2026,02:00,Necaxa,Atlas,0,2,3.28,3.54,1.99
+MEX,17/10/2026,04:00,Atlante,UNAM Pumas,1,2,2.54,3.38,2.48
+MEX,17/10/2026,04:05,Club Tijuana,Puebla,0,0,1.65,3.77,4.67
+MEX,18/10/2026,00:00,Santos Laguna,Queretaro,5,0,2.15,3.49,2.93
+MEX,18/10/2026,00:07,Guadalajara Chivas,Tigres UANL,1,1,1.81,3.55,3.9
+MEX,18/10/2026,02:00,Club Leon,Club America,3,5,3.22,3.48,2.03
+MEX,18/10/2026,02:00,Toluca,Atl. San Luis,1,1,1.26,5.62,8.33
+MEX,18/10/2026,04:10,Cruz Azul,Juarez,5,0,1.26,5.46,9.2
+MEX,19/10/2026,02:00,Monterrey,Pachuca,2,1,1.54,4.13,4.95
+MEX,21/10/2026,01:07,Guadalajara Chivas,Necaxa,1,0,1.32,5.32,7.19
+MEX,21/10/2026,02:00,Atl. San Luis,Queretaro,2,1,2.32,3.42,2.73
+MEX,21/10/2026,02:00,Juarez,Atlante,0,1,3.15,3.43,2.07
+MEX,21/10/2026,04:00,Tigres UANL,Club Leon,0,2,2.04,3.38,3.31
+MEX,22/10/2026,02:00,Atlas,Club America,2,5,3.08,3.56,2.08
+MEX,22/10/2026,02:00,Puebla,Monterrey,1,4,3.7,3.56,1.86
+MEX,22/10/2026,02:00,Toluca,Club Tijuana,2,2,1.11,8.46,14.91
+MEX,22/10/2026,04:10,Pachuca,Cruz Azul,1,2,3.04,3.57,2.08
+MEX,22/10/2026,04:10,Santos Laguna,UNAM Pumas,2,0,2.37,3.53,2.6
+MEX,24/10/2026,02:00,Necaxa,Juarez,1,1,1.68,3.78,4.36
+MEX,24/10/2026,04:00,Atlante,Atl. San Luis,0,1,2.16,3.36,3.03
+MEX,25/10/2026,01:00,Monterrey,Guadalajara Chivas,0,1,2.3,3.33,2.8
+MEX,25/10/2026,03:10,UNAM Pumas,Tigres UANL,1,1,1.98,3.49,3.35
+MEX,25/10/2026,23:00,Atlas,Puebla,4,3,1.55,4,5.14
+MEX,25/10/2026,00:00,Club Leon,Toluca,1,1,3.68,3.76,1.81
+MEX,26/10/2026,01:00,Queretaro,Cruz Azul,1,3,3.49,3.62,1.9
+MEX,26/10/2026,01:05,Club America,Pachuca,1,2,1.62,3.92,4.58
+MEX,26/10/2026,03:00,Club Tijuana,Santos Laguna,4,1,2.06,3.57,3.09
+MEX,29/10/2026,03:00,Club America,Club Tijuana,1,1,1.51,4.26,5.27
+MEX,31/10/2026,01:00,Atl. San Luis,Atlas,0,1,2.24,3.52,2.79
+MEX,31/10/2026,01:00,Juarez,Queretaro,3,1,2.9,3.42,2.21
+MEX,31/10/2026,03:00,Puebla,UNAM Pumas,1,2,3.58,3.53,1.91
+MEX,31/10/2026,23:00,Pachuca,Tigres UANL,3,0,1.91,3.57,3.52
+MEX,01/11/2026,01:05,Monterrey,Club Tijuana,3,3,1.55,4.07,5.06
+MEX,01/11/2026,01:07,Guadalajara Chivas,Atlante,4,2,1.38,4.7,6.68
+MEX,01/11/2026,03:10,Club America,Toluca,2,2,2.16,3.64,2.83
+MEX,01/11/2026,23:00,Santos Laguna,Necaxa,1,0,1.76,3.91,3.77
+MEX,02/11/2026,01:10,Cruz Azul,Club Leon,2,1,1.65,3.86,4.5
