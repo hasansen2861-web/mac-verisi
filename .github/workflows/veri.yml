@@ -1,0 +1,39 @@
+name: Veri guncelle
+
+on:
+  schedule:
+    - cron: '17 */4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  indir:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: football-data dosyalarini indir
+        run: |
+          mkdir -p data
+          Y=$((10#$(date -u +%y)))
+          M=$((10#$(date -u +%m)))
+          if [ $M -ge 7 ]; then B=$Y; else B=$((Y-1)); fi
+          S=$(printf "%02d%02d" $B $((B+1)))
+          P=$(printf "%02d%02d" $((B-1)) $B)
+          echo "Bu sezon $S, gecen sezon $P"
+          for L in T1 E0 SP1 I1 D1 F1 N1 P1 B1 E1 SC0 G1 D2 I2 SP2 F2; do
+            curl -fsSL -A "Mozilla/5.0" "https://www.football-data.co.uk/mmz4281/$S/$L.csv" -o "data/${S}_$L.csv" || echo "yok: $S $L"
+            [ -f "data/${P}_$L.csv" ] || curl -fsSL -A "Mozilla/5.0" "https://www.football-data.co.uk/mmz4281/$P/$L.csv" -o "data/${P}_$L.csv" || echo "yok: $P $L"
+          done
+          curl -fsSL -A "Mozilla/5.0" "https://www.football-data.co.uk/fixtures.csv" -o data/fixtures.csv || echo "fikstur yok"
+          ls -la data
+
+      - name: Kaydet
+        run: |
+          git config user.name "veri-bot"
+          git config user.email "veri-bot@users.noreply.github.com"
+          git add data
+          git commit -m "Veri guncellendi $(date -u +%F_%H:%M)" || exit 0
+          git push
