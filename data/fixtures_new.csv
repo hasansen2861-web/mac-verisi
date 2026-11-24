@@ -1,86 +1,17 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,AvgH,AvgD,AvgA
-ARG,20/11/2026,23:00,Velez Sarsfield,Belgrano,,,2.2,3.25,3.5
-ARG,21/11/2026,18:00,Defensa y Justicia,Barracas Central,,,2.15,3.2,3.8
-ARG,21/11/2026,20:00,Argentinos Jrs,Independiente,,,2.12,3.2,4.33
-ARG,22/11/2026,19:00,Rosario Central,Gimnasia Mendoza,,,1.4,4.75,8.6
-ARG,22/11/2026,22:00,River Plate,Lanus,,,1.65,3.75,6.5
-ARG,23/11/2026,01:00,Instituto,Huracan,,,2.12,3.2,4.2
-ARG,23/11/2026,20:00,Gimnasia L.P.,Newells Old Boys,,,2.15,3.25,3.75
-AUT,21/11/2026,16:00,LASK,Hartberg,,,1.32,6,9
-AUT,21/11/2026,16:00,Tirol,A. Lustenau,,,1.73,4,4.3
-AUT,21/11/2026,18:30,Grazer AK,SK Rapid,,,7.4,4.75,1.42
-AUT,22/11/2026,13:30,Altach,Sturm Graz,,,3.75,3.8,1.98
-AUT,22/11/2026,13:30,Wolfsberger AC,Ried,,,2.75,3.66,2.4
-AUT,22/11/2026,16:00,Austria Vienna,Salzburg,,,4.75,4.33,1.66
-BRA,21/11/2026,19:30,Palmeiras,Flamengo RJ,,,4,3.8,2.5
-BRA,21/11/2026,20:30,Bahia,Coritiba,,,1.53,4.6,6
-BRA,22/11/2026,00:00,Chapecoense-SC,Cruzeiro,,,6.5,4.8,1.5
-BRA,22/11/2026,19:00,Athletico-PR,Remo,,,1.52,4.6,7
-BRA,22/11/2026,21:30,Fluminense,Mirassol,,,1.63,4,5.25
-BRA,22/11/2026,22:30,Bragantino,Vasco,,,2.4,3.75,2.9
-BRA,23/11/2026,22:30,Internacional,Vitoria,,,1.62,4.2,5.6
-BRA,23/11/2026,23:00,Botafogo RJ,Sao Paulo,,,2.4,3.5,3.14
-BRA,24/11/2026,00:00,Santos,Gremio,,,1.65,4.25,5.1
-DNK,20/11/2026,18:00,Aarhus,Lyngby,,,1.78,4.1,4.35
-DNK,22/11/2026,13:00,Horsens,Silkeborg,,,2.3,3.75,2.92
-DNK,22/11/2026,13:00,Viborg,Randers FC,,,1.58,4.35,5
-DNK,22/11/2026,15:00,Sonderjyske,Odense,,,2.94,3.8,2.3
-DNK,22/11/2026,17:00,Nordsjaelland,FC Copenhagen,,,2.7,3.75,2.5
-DNK,23/11/2026,18:00,Brondby,Midtjylland,,,2.6,4,2.55
-JPN,20/11/2026,10:00,Kashima Antlers,Shimizu S-Pulse,,,1.48,4.4,9.4
-JPN,20/11/2026,10:00,Kashiwa Reysol,Chiba,,,1.51,4.5,6.25
-JPN,20/11/2026,10:00,Vissel Kobe,Mito,,,1.44,4.5,7.25
-JPN,21/11/2026,05:00,Kyoto,Urawa Reds,,,3.2,3.8,2.1
-JPN,21/11/2026,05:00,Machida,V-Varen Nagasaki,,,1.54,4.33,6.2
-JPN,21/11/2026,05:00,Sanfrecce Hiroshima,Yokohama F. Marinos,,,1.41,5,7
-JPN,21/11/2026,05:00,Verdy,Nagoya Grampus,,,3.33,3.4,2.18
-JPN,21/11/2026,06:00,Cerezo Osaka,FC Tokyo,,,5.25,4.2,1.65
-JPN,21/11/2026,06:00,Kawasaki Frontale,Avispa Fukuoka,,,1.88,3.75,4.2
-JPN,21/11/2026,07:00,Gamba Osaka,Okayama,,,2.2,3.5,3.25
-MEX,21/11/2026,01:00,Puebla,Atl. San Luis,,,2.55,3.5,2.8
-MEX,21/11/2026,03:00,Juarez,Atlas,,,3.6,3.6,2.05
-MEX,21/11/2026,03:10,Club Tijuana,Atlante,,,1.62,4.25,5.3
-MEX,21/11/2026,22:50,Pachuca,Toluca,,,2.8,4,2.3
-MEX,21/11/2026,23:00,Santos Laguna,Club Leon,,,2.45,3.75,2.63
-MEX,22/11/2026,01:00,UNAM Pumas,Monterrey,,,2.56,3.6,2.56
-MEX,22/11/2026,03:00,Tigres UANL,Club America,,,3.4,3.6,2.05
-MEX,22/11/2026,23:07,Guadalajara Chivas,Cruz Azul,,,2.2,4.2,2.8
-MEX,23/11/2026,01:10,Queretaro,Necaxa,,,2,4,3.4
-NOR,20/11/2026,18:00,Molde,Bodo/Glimt,,,3.6,4.75,1.85
-NOR,21/11/2026,13:00,Tromso,Viking,,,4,4.2,1.8
-NOR,21/11/2026,15:00,HamKam,Fredrikstad,,,2.5,3.5,2.9
-NOR,21/11/2026,17:00,Valerenga,Start,,,1.53,5,5.1
-NOR,22/11/2026,16:00,Aalesund,Rosenborg,,,4.35,4.5,1.66
-NOR,22/11/2026,16:00,KFUM Oslo,Brann,,,2.76,3.8,2.3
-NOR,22/11/2026,16:00,Kristiansund,Sandefjord,,,2.6,3.9,2.44
-NOR,22/11/2026,18:15,Sarpsborg 08,Lillestrom,,,2.25,4,2.8
-POL,20/11/2026,17:00,Piast Gliwice,Korona Kielce,,,2.56,3.66,2.6
-POL,20/11/2026,19:30,Pogon Szczecin,Slask Wroclaw,,,1.81,3.9,4.2
-POL,21/11/2026,13:45,Cracovia,Jagiellonia,,,2.45,3.8,2.65
-POL,21/11/2026,16:30,Zaglebie,Gornik Zabrze,,,4.2,3.5,1.93
-POL,21/11/2026,19:15,Radomiak Radom,Wisla,,,3.25,3.8,2.08
-POL,22/11/2026,11:15,Rakow,Widzew Lodz,,,2.1,3.6,3.5
-POL,22/11/2026,13:45,GKS Katowice,Lech Poznan,,,3.15,4,2.05
-POL,22/11/2026,16:30,Wisla Plock,Legia,,,3.1,3.5,2.2
-POL,23/11/2026,18:00,Wieczysta Krakow,Motor Lublin,,,2.35,3.8,2.65
-SWE,21/11/2026,14:00,AIK,Degerfors,,,2.25,4.2,2.95
-SWE,21/11/2026,14:00,Mjallby,Malmo FF,,,3.1,3.5,2.25
-SWE,21/11/2026,16:30,GAIS,Vasteras SK,,,2.02,3.6,3.8
-SWE,22/11/2026,13:00,Hacken,Elfsborg,,,1.9,4.2,3.85
-SWE,22/11/2026,13:00,Sirius,Djurgarden,,,2.3,3.6,2.87
-SWE,22/11/2026,15:30,Brommapojkarna,Halmstad,,,2.12,3.8,3.15
-SWE,23/11/2026,18:00,Hammarby,Goteborg,,,1.24,7,12
-SWE,23/11/2026,18:00,Orgryte,Kalmar,,,3.3,3.6,2.1
-SWZ,21/11/2026,17:00,Lugano,Grasshoppers,,,1.39,5.75,7.25
-SWZ,21/11/2026,17:00,Young Boys,Thun,,,1.41,5.75,6.75
-SWZ,21/11/2026,19:30,Sion,Servette,,,1.7,4.2,4.6
-SWZ,22/11/2026,13:00,Zurich,St. Gallen,,,3.5,4,1.91
-SWZ,22/11/2026,15:30,Basel,Luzern,,,2.3,4,2.7
-SWZ,22/11/2026,15:30,Lausanne,Vaduz,,,2.14,4,3.1
-USA,21/11/2026,19:00,New England Revolution,Philadelphia Union,,,3.05,3.8,2.2
-USA,21/11/2026,21:00,FC Dallas,Portland Timbers,,,1.9,4,3.7
-USA,21/11/2026,23:00,Inter Miami,Columbus Crew,,,1.58,5,5.2
-USA,22/11/2026,21:00,Nashville SC,FC Cincinnati,,,1.5,4.75,5.5
-USA,22/11/2026,23:30,Chicago Fire,Charlotte,,,1.65,4.5,4.75
-USA,23/11/2026,01:30,Vancouver Whitecaps,Real Salt Lake,,,1.44,4.75,6.25
-USA,24/11/2026,01:00,St. Louis City,Los Angeles FC,,,2.38,3.6,2.85
+ARG,26/11/2026,00:00,Boca Juniors,Ind. Rivadavia,,,1.6,3.64,5.59
+BRA,24/11/2026,21:00,Chapecoense-SC,Palmeiras,,,3.29,3.47,2.08
+BRA,25/11/2026,23:00,Atletico-MG,Corinthians,,,2.33,3.3,2.91
+BRA,26/11/2026,23:00,Sao Paulo,Remo,,,1.37,4.58,7.57
+JPN,25/11/2026,10:00,Avispa Fukuoka,Yokohama F. Marinos,,,2.96,3.33,2.23
+JPN,25/11/2026,10:00,Chiba,Nagoya Grampus,,,3.13,3.4,2.1
+JPN,25/11/2026,10:00,FC Tokyo,Sanfrecce Hiroshima,,,2.32,3.41,2.75
+JPN,25/11/2026,10:00,Mito,Verdy,,,2.86,3.01,2.44
+JPN,25/11/2026,10:00,Okayama,Shimizu S-Pulse,,,2,3.26,3.54
+JPN,25/11/2026,10:00,V-Varen Nagasaki,Kawasaki Frontale,,,3.53,3.83,1.84
+JPN,25/11/2026,10:30,Urawa Reds,Cerezo Osaka,,,1.81,3.78,3.69
+MEX,26/11/2026,01:00,Toluca,Atlas,,,1.4,4.72,5.99
+MEX,26/11/2026,03:10,Monterrey,Club America,,,2.33,3.31,2.78
+MEX,27/11/2026,01:00,Pachuca,Guadalajara Chivas,,,2.59,3.36,2.45
+MEX,27/11/2026,03:10,Club Leon,Cruz Azul,,,3.03,3.45,2.1
+USA,25/11/2026,03:00,San Jose Earthquakes,Houston Dynamo,,,2.09,3.5,3.1
